@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#14951](https://github.com/metasfresh/metasfresh/issues/14951) Add section code to Inventory, Bank Statement & Movement
   * [#14762](https://github.com/metasfresh/metasfresh/issues/14762) RAA Datenaustausch: Soll-Start/Ende Prüfschritt - Follow-Up 01
   * [#14831](https://github.com/metasfresh/metasfresh/issues/14831) Stücklistenexport nach Excel - Lieferant mit ausgeben
   * [#14826](https://github.com/metasfresh/metasfresh/issues/14826) Stücklistenexport nach Excel - Reihenfolge der Zeilen wird ignoriert
