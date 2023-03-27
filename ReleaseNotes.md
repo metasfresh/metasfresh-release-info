@@ -263,6 +263,7 @@ Here come the actual release notes:
 
 ## Fixes
 * metasfresh
+  * [#14980](https://github.com/metasfresh/metasfresh/issues/14980) Override Due Date should be filled with the invoice due date
   * [#14915](https://github.com/metasfresh/metasfresh/issues/14915) Fix missing columns in GridView
   * [#14803](https://github.com/metasfresh/metasfresh/issues/14803) Accounting Issues - Invalid accounting operation structure
   * [#14686](https://github.com/metasfresh/metasfresh/issues/14686) Do not reset BillToAddress whenever Delivery Address changed
