@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15007](https://github.com/metasfresh/metasfresh/issues/15007) Receipt fact accounts in document currency
   * [#14856](https://github.com/metasfresh/metasfresh/issues/14856) Update to Java 17
   * [#14954](https://github.com/metasfresh/metasfresh/issues/14954) Check if the Source HU already exist before trying to add a new one
   * [#14951](https://github.com/metasfresh/metasfresh/issues/14951) Add section code to Inventory, Bank Statement & Movement
