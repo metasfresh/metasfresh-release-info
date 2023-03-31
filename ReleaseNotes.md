@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15013](https://github.com/metasfresh/metasfresh/issues/15013) Adding new process Offene Posten (Excel)
   * [#15007](https://github.com/metasfresh/metasfresh/issues/15007) Receipt fact accounts in document currency
   * [#14856](https://github.com/metasfresh/metasfresh/issues/14856) Update to Java 17
   * [#14954](https://github.com/metasfresh/metasfresh/issues/14954) Check if the Source HU already exist before trying to add a new one
