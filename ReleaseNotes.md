@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15046](https://github.com/metasfresh/metasfresh/issues/15046) CR042 mbank (Poland bank data) - AC4 
   * [#14971](https://github.com/metasfresh/metasfresh/issues/14971) Interface - Transfer Bio Label
   * [#15013](https://github.com/metasfresh/metasfresh/issues/15013) Adding new process Offene Posten (Excel)
   * [#15007](https://github.com/metasfresh/metasfresh/issues/15007) Receipt fact accounts in document currency
