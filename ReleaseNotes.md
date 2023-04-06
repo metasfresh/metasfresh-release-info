@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15074](https://github.com/metasfresh/metasfresh/issues/15074) [IEUE043] GL journal (SAP) cannot be reversed
   * [#15063](https://github.com/metasfresh/metasfresh/issues/15063) SAP Interface UOM Mapping
   * [#15046](https://github.com/metasfresh/metasfresh/issues/15046) CR042 mbank (Poland bank data) - AC4 
   * [#14971](https://github.com/metasfresh/metasfresh/issues/14971) Interface - Transfer Bio Label
