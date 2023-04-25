@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15100](https://github.com/metasfresh/metasfresh/issues/15100) Handle multiple SalesRep in invoices
   * [#15133](https://github.com/metasfresh/metasfresh/issues/15133) SAP FI interface: export Assignment
   * [#15090](https://github.com/metasfresh/metasfresh/issues/15090) [IEUIF003] SAP business partner interface: MC and storage partners
   * [#15095](https://github.com/metasfresh/metasfresh/issues/15095) When creating a Counter Doc for C_Order, take into account the HandOver informations
