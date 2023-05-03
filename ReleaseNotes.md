@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15221](https://github.com/metasfresh/metasfresh/issues/15221) People resource reservation master data
   * [#15154](https://github.com/metasfresh/metasfresh/issues/15154) DESADV ist fehlerhaft - Lieferscheinnummer anstelle von DESADV Nummer übertragen
   * [#15100](https://github.com/metasfresh/metasfresh/issues/15100) Handle multiple SalesRep in invoices
   * [#15133](https://github.com/metasfresh/metasfresh/issues/15133) SAP FI interface: export Assignment
