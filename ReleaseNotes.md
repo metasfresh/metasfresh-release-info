@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15147](https://github.com/metasfresh/metasfresh/issues/15147) RAA Datenaustausch Wareneingang Prüfling
   * [#15272](https://github.com/metasfresh/metasfresh/issues/15272) External project reference Sequence changes
   * [#15221](https://github.com/metasfresh/metasfresh/issues/15221) People resource reservation master data
   * [#15154](https://github.com/metasfresh/metasfresh/issues/15154) DESADV ist fehlerhaft - Lieferscheinnummer anstelle von DESADV Nummer übertragen
