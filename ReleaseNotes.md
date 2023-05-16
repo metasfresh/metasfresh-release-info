@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15260](https://github.com/metasfresh/metasfresh/issues/15260) SAP FI interface: GL entries to be NOT interfaced into SAP
   * [#15319](https://github.com/metasfresh/metasfresh/issues/15319) FollowUp: Server Error Message Zahllauf 
   * [#15147](https://github.com/metasfresh/metasfresh/issues/15147) RAA Datenaustausch Wareneingang Prüfling
   * [#15272](https://github.com/metasfresh/metasfresh/issues/15272) External project reference Sequence changes
