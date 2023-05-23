@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15375](https://github.com/metasfresh/metasfresh/issues/15375) Use correct currency in dunning mail 
   * [#15329](https://github.com/metasfresh/metasfresh/issues/15329) Add to Marketing Campaign from Partner Export window
   * [#15343](https://github.com/metasfresh/metasfresh/issues/15343) Fix Calendar Remaining Translations
   * [#15331](https://github.com/metasfresh/metasfresh/issues/15331) B2b: Kommisionierung rückgängig machen
