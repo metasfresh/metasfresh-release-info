@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15406](https://github.com/metasfresh/metasfresh/pull/15406) Don't try to update M_Product.LowLevel when cloning PP_Product_BOMs.
   * [#15399](https://github.com/metasfresh/metasfresh/issues/15399) Modernize developers' docker-compose.yml
   * [#15375](https://github.com/metasfresh/metasfresh/issues/15375) Use correct currency in dunning mail 
   * [#15329](https://github.com/metasfresh/metasfresh/issues/15329) Add to Marketing Campaign from Partner Export window
