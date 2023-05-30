@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15427](https://github.com/metasfresh/metasfresh/issues/15427) Make "MD_Cockpit / MD_Candidate" related tests unflaky
   * [#15155](https://github.com/metasfresh/metasfresh/issues/15155) Material Disposition: Lot for Lot 
   * [#15406](https://github.com/metasfresh/metasfresh/pull/15406) Don't try to update M_Product.LowLevel when cloning PP_Product_BOMs.
   * [#15399](https://github.com/metasfresh/metasfresh/issues/15399) Modernize developers' docker-compose.yml
