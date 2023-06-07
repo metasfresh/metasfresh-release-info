@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15471](https://github.com/metasfresh/metasfresh/issues/15471) Add TaxCode to Accounting Transaction Details Window
   * [#15473](https://github.com/metasfresh/metasfresh/issues/15473) Show the default Invoice identifier in ESR Payment Import window ID - 540159
   * [#15452](https://github.com/metasfresh/metasfresh/issues/15452) Fix Materialcockpit displaying 404
   * [#15427](https://github.com/metasfresh/metasfresh/issues/15427) Make "MD_Cockpit / MD_Candidate" related tests unflaky
