@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15484](https://github.com/metasfresh/metasfresh/issues/15484) Contract term window customization
   * [#15489](https://github.com/metasfresh/metasfresh/issues/15489) Payment allocation modal: action to allocate credit memo/ invoice.
   * [#15471](https://github.com/metasfresh/metasfresh/issues/15471) Add TaxCode to Accounting Transaction Details Window
   * [#15473](https://github.com/metasfresh/metasfresh/issues/15473) Show the default Invoice identifier in ESR Payment Import window ID - 540159
@@ -293,6 +294,7 @@ Here come the actual release notes:
 
 ## Fixes
 * metasfresh
+  * [#15490](https://github.com/metasfresh/metasfresh/issues/15490) Payment Allocation action bug
   * [#14980](https://github.com/metasfresh/metasfresh/issues/14980) Override Due Date should be filled with the invoice due date
   * [#14915](https://github.com/metasfresh/metasfresh/issues/14915) Fix missing columns in GridView
   * [#14803](https://github.com/metasfresh/metasfresh/issues/14803) Accounting Issues - Invalid accounting operation structure
