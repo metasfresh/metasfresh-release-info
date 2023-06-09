@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15516](https://github.com/metasfresh/metasfresh/issues/15516) Dunning Mails to seperate Mail address
   * [#15530](https://github.com/metasfresh/metasfresh/issues/15530) Bank Statement Import: Migros Bank camt53
   * [#15481](https://github.com/metasfresh/metasfresh/issues/15481) Campaign prices: fill out fields - follow up
   * [#15519](https://github.com/metasfresh/metasfresh/issues/15519) Make 'New Record' option configurable at AD_Field level
