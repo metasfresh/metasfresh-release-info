@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15476](https://github.com/metasfresh/metasfresh/issues/15476) Invoice candidate import: Take out billto contact ID as mandatory field
   * [#15484](https://github.com/metasfresh/metasfresh/issues/15484) Contract term window customization
   * [#15489](https://github.com/metasfresh/metasfresh/issues/15489) Payment allocation modal: action to allocate credit memo/ invoice.
   * [#15471](https://github.com/metasfresh/metasfresh/issues/15471) Add TaxCode to Accounting Transaction Details Window
