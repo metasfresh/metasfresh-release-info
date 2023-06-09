@@ -12,6 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15481](https://github.com/metasfresh/metasfresh/issues/15481) Campaign prices: fill out fields - follow up
+  * [#15519](https://github.com/metasfresh/metasfresh/issues/15519) Make 'New Record' option configurable at AD_Field level
   * [#15476](https://github.com/metasfresh/metasfresh/issues/15476) Invoice candidate import: Take out billto contact ID as mandatory field
   * [#15484](https://github.com/metasfresh/metasfresh/issues/15484) Contract term window customization
   * [#15489](https://github.com/metasfresh/metasfresh/issues/15489) Payment allocation modal: action to allocate credit memo/ invoice.
