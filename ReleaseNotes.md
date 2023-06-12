@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15440](https://github.com/metasfresh/metasfresh/pull/15440) Add and propagate user element strings from order to invoice
   * [#15447](https://github.com/metasfresh/metasfresh/issues/15447) New Process: Add access to menu recursively for a Role
   * [#15516](https://github.com/metasfresh/metasfresh/issues/15516) Dunning Mails to seperate Mail address
   * [#15530](https://github.com/metasfresh/metasfresh/issues/15530) Bank Statement Import: Migros Bank camt53
