@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15543](https://github.com/metasfresh/metasfresh/pull/15543) [Sales_housekeeping 6] Delivery planning Change Logic of additional lines process
   * [#15528](https://github.com/metasfresh/metasfresh/issues/15528) [Sales_housekeeping 4] Allocating FEC
   * [#15563](https://github.com/metasfresh/metasfresh/pull/15563) Change date format to `dd.mm.yyyy` for Invoice Candidate Import
   * [#15554](https://github.com/metasfresh/metasfresh/pull/15554) Improve performance of de_metas_endcustomer_fresh_reports.Docs_Sales_Dunning_QR_Code()
