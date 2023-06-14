@@ -12,6 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15569](https://github.com/metasfresh/metasfresh/pull/15569) Add message for the order credit limit info notification
+  * [#15533](https://github.com/metasfresh/metasfresh/pull/15533) Order Based Credit Limit shall not prevent order creation and completion
   * [#15543](https://github.com/metasfresh/metasfresh/pull/15543) [Sales_housekeeping 6] Delivery planning Change Logic of additional lines process
   * [#15528](https://github.com/metasfresh/metasfresh/issues/15528) [Sales_housekeeping 4] Allocating FEC
   * [#15563](https://github.com/metasfresh/metasfresh/pull/15563) Change date format to `dd.mm.yyyy` for Invoice Candidate Import
