@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15574](https://github.com/metasfresh/metasfresh/pull/15574) Aktionspreis: Add UOM to Aktionspreise subtab in Product>>Aktionspreise
   * [#15569](https://github.com/metasfresh/metasfresh/pull/15569) Add message for the order credit limit info notification
   * [#15533](https://github.com/metasfresh/metasfresh/pull/15533) Order Based Credit Limit shall not prevent order creation and completion
   * [#15543](https://github.com/metasfresh/metasfresh/pull/15543) [Sales_housekeeping 6] Delivery planning Change Logic of additional lines process
