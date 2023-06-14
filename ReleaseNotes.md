@@ -12,6 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15549](https://github.com/metasfresh/metasfresh/issues/15549) New window: Vertragsbaustein Log (Contract Module Log)
+  * [#15509](https://github.com/metasfresh/metasfresh/issues/15509) New window: Baustein Typ (Contract Module Type)
   * [#15574](https://github.com/metasfresh/metasfresh/pull/15574) Aktionspreis: Add UOM to Aktionspreise subtab in Product>>Aktionspreise
   * [#15569](https://github.com/metasfresh/metasfresh/pull/15569) Add message for the order credit limit info notification
   * [#15533](https://github.com/metasfresh/metasfresh/pull/15533) Order Based Credit Limit shall not prevent order creation and completion
