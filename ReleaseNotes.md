@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15626](https://github.com/metasfresh/metasfresh/pull/15626) Limit Generate Goods Issue by Shipment Disposition On Hand
   * [#15623](https://github.com/metasfresh/metasfresh/issues/15623) Stacktrace when IBAN via Endpoint is not correct
   * [#15549](https://github.com/metasfresh/metasfresh/issues/15549) New window: Vertragsbaustein Log (Contract Module Log)
   * [#15509](https://github.com/metasfresh/metasfresh/issues/15509) New window: Baustein Typ (Contract Module Type)
