@@ -11,7 +11,8 @@ Here come the actual release notes:
 
 # metasfresh 5.176 (upcoming RC)
 ## Features
-* metasfresh
+* metasfresh  
+  * [#15610](https://github.com/metasfresh/metasfresh/pull/15610) Make sure to update the Updated column when propagating TRL update to base table
   * [#15545](https://github.com/metasfresh/metasfresh/issues/15545) [Purchase_housekeeping 1] Purchase order
   * [#15626](https://github.com/metasfresh/metasfresh/pull/15626) Limit Generate Goods Issue by Shipment Disposition On Hand
   * [#15623](https://github.com/metasfresh/metasfresh/issues/15623) Stacktrace when IBAN via Endpoint is not correct
