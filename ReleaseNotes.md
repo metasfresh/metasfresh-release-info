@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15672](https://github.com/metasfresh/metasfresh/issues/15672) Housekeeping references - Iteration 3
   * [#15576](https://github.com/metasfresh/metasfresh/issues/15576) [Purchase_housekeeping 2] reference additional documents
   * [#15626](https://github.com/metasfresh/metasfresh/pull/15668) Extend BPartner Import
   * [#15653](https://github.com/metasfresh/metasfresh/issues/15653) Datefields in InvoiceCandidates
