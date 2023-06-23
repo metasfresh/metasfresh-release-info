@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15576](https://github.com/metasfresh/metasfresh/issues/15576) [Purchase_housekeeping 2] reference additional documents
   * [#15626](https://github.com/metasfresh/metasfresh/pull/15668) Extend BPartner Import
   * [#15653](https://github.com/metasfresh/metasfresh/issues/15653) Datefields in InvoiceCandidates
   * [#15610](https://github.com/metasfresh/metasfresh/pull/15610) Make sure to update the Updated column when propagating TRL update to base table
