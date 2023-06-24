@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15663](https://github.com/metasfresh/metasfresh/issues/15662) Dunning windows - set IsBetaFunctionality=NO
   * [#15690](https://github.com/metasfresh/metasfresh/issues/15690) Add/ Prepare language it_IT as systemlanguage
   * [#15672](https://github.com/metasfresh/metasfresh/issues/15672) Housekeeping references - Iteration 3
   * [#15576](https://github.com/metasfresh/metasfresh/issues/15576) [Purchase_housekeeping 2] reference additional documents
