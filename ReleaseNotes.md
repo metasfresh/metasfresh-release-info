@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15611](https://github.com/metasfresh/metasfresh/issues/15611) New Flag in c_bpartner `isManual` and Import Format for Business Partner 
   * [#15663](https://github.com/metasfresh/metasfresh/issues/15662) Dunning windows - set IsBetaFunctionality=NO
   * [#15690](https://github.com/metasfresh/metasfresh/issues/15690) Add/ Prepare language it_IT as systemlanguage
   * [#15672](https://github.com/metasfresh/metasfresh/issues/15672) Housekeeping references - Iteration 3
