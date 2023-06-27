@@ -12,6 +12,16 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15670](https://github.com/metasfresh/metasfresh/issues/15670) Include DESADV-Documentnumber(s) in INVOIC  
+  * [#15689](https://github.com/metasfresh/metasfresh/pull/15689) Module Contract tables and columns renaming
+  * [#15611](https://github.com/metasfresh/metasfresh/issues/15611) New Flag in c_bpartner `isManual` and Import Format for Business Partner 
+  * [#15663](https://github.com/metasfresh/metasfresh/issues/15662) Dunning windows - set IsBetaFunctionality=NO
+  * [#15690](https://github.com/metasfresh/metasfresh/issues/15690) Add/ Prepare language it_IT as systemlanguage
+  * [#15672](https://github.com/metasfresh/metasfresh/issues/15672) Housekeeping references - Iteration 3
+  * [#15576](https://github.com/metasfresh/metasfresh/issues/15576) [Purchase_housekeeping 2] reference additional documents
+  * [#15626](https://github.com/metasfresh/metasfresh/pull/15668) Extend BPartner Import
+  * [#15653](https://github.com/metasfresh/metasfresh/issues/15653) Datefields in InvoiceCandidates
+  * [#15610](https://github.com/metasfresh/metasfresh/pull/15610) Make sure to update the Updated column when propagating TRL update to base table
   * [#15545](https://github.com/metasfresh/metasfresh/issues/15545) [Purchase_housekeeping 1] Purchase order
   * [#15626](https://github.com/metasfresh/metasfresh/pull/15626) Limit Generate Goods Issue by Shipment Disposition On Hand
   * [#15623](https://github.com/metasfresh/metasfresh/issues/15623) Stacktrace when IBAN via Endpoint is not correct
@@ -313,6 +323,7 @@ Here come the actual release notes:
 
 ## Fixes
 * metasfresh
+  * [#15698](https://github.com/metasfresh/metasfresh/issues/15698) BUG: C_Project_ID gets overwritten when propagated to shipment line
   * [#15490](https://github.com/metasfresh/metasfresh/issues/15490) Payment Allocation action bug
   * [#14980](https://github.com/metasfresh/metasfresh/issues/14980) Override Due Date should be filled with the invoice due date
   * [#14915](https://github.com/metasfresh/metasfresh/issues/14915) Fix missing columns in GridView
