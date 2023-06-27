@@ -323,6 +323,7 @@ Here come the actual release notes:
 
 ## Fixes
 * metasfresh
+  * [#15698](https://github.com/metasfresh/metasfresh/issues/15698) BUG: C_Project_ID gets overwritten when propagated to shipment line
   * [#15490](https://github.com/metasfresh/metasfresh/issues/15490) Payment Allocation action bug
   * [#14980](https://github.com/metasfresh/metasfresh/issues/14980) Override Due Date should be filled with the invoice due date
   * [#14915](https://github.com/metasfresh/metasfresh/issues/14915) Fix missing columns in GridView
