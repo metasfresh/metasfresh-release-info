@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (upcoming RC)
 ## Features
 * metasfresh
+  * [#15736](https://github.com/metasfresh/metasfresh/issues/15736) Serverabsturz am 2023-06-22
   * [#15715](https://github.com/metasfresh/metasfresh/issues/15715) (Bestellung -> Vertragsbaustein Log) - Missing Fields and structures
   * [#15670](https://github.com/metasfresh/metasfresh/issues/15670) Include DESADV-Documentnumber(s) in INVOIC  
   * [#15689](https://github.com/metasfresh/metasfresh/pull/15689) Module Contract tables and columns renaming
