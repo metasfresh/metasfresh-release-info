@@ -9,7 +9,13 @@ Additional notes:
 
 Here come the actual release notes:
 
-# metasfresh 5.176 (upcoming RC)
+# metasfresh 5.177 (upcoming RC)
+
+## Features
+
+## Fixes
+
+# metasfresh 5.176 (current RC)
 ## Features
 * metasfresh
   * [#15736](https://github.com/metasfresh/metasfresh/issues/15736) Serverabsturz am 2023-06-22
@@ -382,7 +388,7 @@ Here come the actual release notes:
   * [#12986](https://github.com/metasfresh/metasfresh/issues/12986) Password displayed when hovering over the *** with mouse, w/o using the eye icon 
   * [#12919](https://github.com/metasfresh/metasfresh/pull/12925) fix flaky 'exportExternalReferenceToRabbitMQ.feature' scenario #12925
 
-# metasfresh 5.175 (current RC)
+# metasfresh 5.175
 ## Features
 * metasfresh
   * [#13789](https://github.com/metasfresh/metasfresh/issues/13789) Investigate github actions failures 
