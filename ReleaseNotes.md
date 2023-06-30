@@ -12,8 +12,14 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+* metasfresh
+ * [#15765](https://github.com/metasfresh/metasfresh/pull/15765) Window Bestellanforderung
 
 ## Fixes
+* metasfresh
+  * [#15751](https://github.com/metasfresh/metasfresh/pull/15751) Fix FTS type error
+  * [#15752](https://github.com/metasfresh/metasfresh/pull/15752) update lucene dependency version to match elasticsearch
+
 
 # metasfresh 5.176 (current RC)
 ## Features
@@ -331,8 +337,6 @@ Here come the actual release notes:
 
 ## Fixes
 * metasfresh
-  * [#15751](https://github.com/metasfresh/metasfresh/pull/15751) Fix FTS type error
-  * [#15752](https://github.com/metasfresh/metasfresh/pull/15752) update lucene dependency version to match elasticsearch
   * [#15698](https://github.com/metasfresh/metasfresh/issues/15698) BUG: C_Project_ID gets overwritten when propagated to shipment line
   * [#15490](https://github.com/metasfresh/metasfresh/issues/15490) Payment Allocation action bug
   * [#14980](https://github.com/metasfresh/metasfresh/issues/14980) Override Due Date should be filled with the invoice due date
