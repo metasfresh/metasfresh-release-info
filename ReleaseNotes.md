@@ -20,6 +20,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (current RC)
 ## Features
 * metasfresh
+  * [#15671](https://github.com/metasfresh/metasfresh/pull/15671) Vertragsbausteinlog Factory
   * [#15765](https://github.com/metasfresh/metasfresh/pull/15765) Window Bestellanforderung
   * [#15736](https://github.com/metasfresh/metasfresh/issues/15736) Serverabsturz am 2023-06-22
   * [#15715](https://github.com/metasfresh/metasfresh/issues/15715) (Bestellung -> Vertragsbaustein Log) - Missing Fields and structures
