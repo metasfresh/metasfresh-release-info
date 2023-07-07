@@ -20,6 +20,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (current RC)
 ## Features
 * metasfresh
+  * [#15783](https://github.com/metasfresh/metasfresh/issues/15783) Create contracts from PO and other operations related to it
   * [#15807](https://github.com/metasfresh/metasfresh/issues/15784) (Bestellung -> Vertragsbaustein Log) - Add related document links
   * [#15784](https://github.com/metasfresh/metasfresh/issues/15784) (Bestellung -> Vertragsbaustein Log) - Create contact module log when PO happens
   * [#15671](https://github.com/metasfresh/metasfresh/pull/15671) Vertragsbausteinlog Factory
