@@ -22,6 +22,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (current RC)
 ## Features
 * metasfresh
+  * [#15861](https://github.com/metasfresh/metasfresh/issues/15861) Hauptbuch Journal Anpassung Beschreibung 
   * [#15805](https://github.com/metasfresh/metasfresh/pull/15805) DeliveryPlanningICHandlerExtension: ActLoadDate from Planning docs with no instructions
   * [#15804](https://github.com/metasfresh/metasfresh/pull/15804) ShipmentScheduleFromSubscriptionOrderLineVetoer: fix veto logic
   * [#15819](https://github.com/metasfresh/metasfresh/issues/15819) (Inventur -> Vertragsbaustein Log) - Inventory -> contract module log
