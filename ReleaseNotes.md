@@ -23,6 +23,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (current RC)
 ## Features
 * metasfresh
+  * [#15864](https://github.com/metasfresh/metasfresh/issues/15863) Open Items (managed) window
   * [#15863](https://github.com/metasfresh/metasfresh/issues/15863) Cancelling FEC need to be possible
   * [#15861](https://github.com/metasfresh/metasfresh/issues/15861) Hauptbuch Journal Anpassung Beschreibung 
   * [#15805](https://github.com/metasfresh/metasfresh/pull/15805) DeliveryPlanningICHandlerExtension: ActLoadDate from Planning docs with no instructions
