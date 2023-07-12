@@ -13,9 +13,10 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
- * [#15855](https://github.com/metasfresh/metasfresh/pull/15855) bpartner api generate location name on update if set to null
+ * [#15855](https://github.com/metasfresh/metasfresh/pull/15855) bPartner api generate location name on update if set to null
  * [#15848](https://github.com/metasfresh/metasfresh/issues/15848) Modular Contract: PO Cucumber
  * [#15842](https://github.com/metasfresh/metasfresh/pull/15842) Modular Contract: Receipt
+ * [#15879](https://github.com/metasfresh/metasfresh/pull/15879) Create request for source org on bPartner org change
 ## Fixes
 * metasfresh
 
