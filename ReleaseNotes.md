@@ -23,6 +23,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (current RC)
 ## Features
 * metasfresh
+  * [#15897](https://github.com/metasfresh/metasfresh/issues/15897) (Bestellung -> Vertragsbaustein Log) - Overview and test the entire feature -> fixes
   * [#15864](https://github.com/metasfresh/metasfresh/issues/15863) Open Items (managed) window
   * [#15863](https://github.com/metasfresh/metasfresh/issues/15863) Cancelling FEC need to be possible
   * [#15861](https://github.com/metasfresh/metasfresh/issues/15861) Hauptbuch Journal Anpassung Beschreibung 
