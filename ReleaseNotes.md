@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#15860](https://github.com/metasfresh/metasfresh/pull/15860) Add support for document completed boilerplate notification
  * [#15894](https://github.com/metasfresh/metasfresh/issues/15894) [CR070] Link material to warehouse 
  * [#15855](https://github.com/metasfresh/metasfresh/pull/15855) bPartner api generate location name on update if set to null
  * [#15848](https://github.com/metasfresh/metasfresh/issues/15848) Modular Contract: PO Cucumber
