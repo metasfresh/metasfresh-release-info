@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#15943](https://github.com/metasfresh/metasfresh/issues/15943) Produktion -> Vertragsbaustein Log 
  * [#15941](https://github.com/metasfresh/metasfresh/pull/15941) Support several QR Labels
  * [#15860](https://github.com/metasfresh/metasfresh/pull/15860) Add support for document completed boilerplate notification
  * [#15894](https://github.com/metasfresh/metasfresh/issues/15894) [CR070] Link material to warehouse 
