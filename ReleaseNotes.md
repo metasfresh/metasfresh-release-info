@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#15964](https://github.com/metasfresh/metasfresh/pull/15964) External System Printing Client
  * [#15907](https://github.com/metasfresh/metasfresh/issues/15907) Order -> Contract Module Log 
  * [#15843](https://github.com/metasfresh/metasfresh/pull/15843) Include VHUs reserved for an orderline into available stock, for ShipmentSchedule purposes
  * [#15943](https://github.com/metasfresh/metasfresh/issues/15943) Produktion -> Vertragsbaustein Log 
