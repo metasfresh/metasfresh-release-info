@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#15919](https://github.com/metasfresh/metasfresh/pull/15919) getc_period_id_by_date function 
  * [#15957](https://github.com/metasfresh/metasfresh/issues/15957) Import Bank Accounts 
  * [#15964](https://github.com/metasfresh/metasfresh/pull/15964) External System Printing Client
  * [#15907](https://github.com/metasfresh/metasfresh/issues/15907) Order -> Contract Module Log 
