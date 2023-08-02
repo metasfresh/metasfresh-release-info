@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#15992](https://github.com/metasfresh/metasfresh/issues/15992) Cloning of workflows 
  * [#15951](https://github.com/metasfresh/metasfresh/pull/15951) SAP GL Journal: Implement Reverse Charge VAT support
  * [#15959](https://github.com/metasfresh/metasfresh/issues/15959) Do not apply warehouse link to cost materials (product type: service) 
  * [#15938](https://github.com/metasfresh/metasfresh/issues/15938) [CR058] Closed status for PO/SO  
