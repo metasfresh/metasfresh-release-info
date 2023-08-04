@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16013](https://github.com/metasfresh/metasfresh/pull/16013) Improve DESADV matching with BPartnerId
  * [#15980](https://github.com/metasfresh/metasfresh/issues/15980) local currency conversion needs to look at tax departure country
  * [#15992](https://github.com/metasfresh/metasfresh/issues/15992) Cloning of workflows 
  * [#15951](https://github.com/metasfresh/metasfresh/pull/15951) SAP GL Journal: Implement Reverse Charge VAT support
