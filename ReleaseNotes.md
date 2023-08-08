@@ -13,6 +13,8 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16026](https://github.com/metasfresh/metasfresh/pull/16026) C_BPartner_Interim table and column corrections 
+ * [#16001](https://github.com/metasfresh/metasfresh/pull/16001) SubTask 1 (Kreditoren Rechnung (Vorfinanzierung) -> Vertragsbaustein Log) - Create C_BPartner_InterimContract
  * [#16013](https://github.com/metasfresh/metasfresh/pull/16013) Improve DESADV matching with BPartnerId
  * [#15980](https://github.com/metasfresh/metasfresh/issues/15980) local currency conversion needs to look at tax departure country
  * [#15992](https://github.com/metasfresh/metasfresh/issues/15992) Cloning of workflows 
