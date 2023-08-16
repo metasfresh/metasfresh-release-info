@@ -13,6 +13,9 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16027](https://github.com/metasfresh/metasfresh/issues/16027) SubTask 1 (Debitoren Rechnung -> Vertragsbaustein Log) - adding fields in files
+ * [#16040](https://github.com/metasfresh/metasfresh/issues/16040) Introduce ModCntr_Log.ContractType
+ * [#16052](https://github.com/metasfresh/metasfresh/issues/16052) Product search (filter) - name
  * [#16032](https://github.com/metasfresh/metasfresh/issues/16032) Sammelstellen/ Verladeorte/ Annahmestellen
  * [#16026](https://github.com/metasfresh/metasfresh/pull/16026) C_BPartner_Interim table and column corrections 
  * [#16001](https://github.com/metasfresh/metasfresh/pull/16001) SubTask 1 (Kreditoren Rechnung (Vorfinanzierung) -> Vertragsbaustein Log) - Create C_BPartner_InterimContract
