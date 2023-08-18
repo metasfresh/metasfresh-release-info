@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16065](https://github.com/metasfresh/metasfresh/pull/16065) (Vertragsbausteinlog Caching & Co) - Performance enhancements #16065
  * [#16062](https://github.com/metasfresh/metasfresh/pull/16062) Create Interim Invoice
  * [#16059](https://github.com/metasfresh/metasfresh/issues/16059) New tables ModCntr_InvoicingGroup and ModCntr_InvoicingGroup_Product 
  * [#16027](https://github.com/metasfresh/metasfresh/issues/16027) SubTask 1 (Debitoren Rechnung -> Vertragsbaustein Log) - adding fields in files
