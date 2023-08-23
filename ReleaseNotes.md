@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16082](https://github.com/metasfresh/metasfresh/issues/16082) VA-Auftrag IST-Start, IST-Start/ Ende after simulation complete CO
  * [#16072](https://github.com/metasfresh/metasfresh/issues/16072) Add Interim Invoiceable Status to Receipt 
  * [#16065](https://github.com/metasfresh/metasfresh/pull/16065) (Vertragsbausteinlog Caching & Co) - Performance enhancements #16065
  * [#16062](https://github.com/metasfresh/metasfresh/pull/16062) Create Interim Invoice
