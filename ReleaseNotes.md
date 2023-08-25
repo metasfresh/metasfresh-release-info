@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16100](https://github.com/metasfresh/metasfresh/issues/16100) Vertragsbaustein Log - Export for editing
  * [#16097](https://github.com/metasfresh/metasfresh/pull/16097) Interim Contract Log / Interim ReceiptLine Log
  * [#16063](https://github.com/metasfresh/metasfresh/issues/16063) Sales Invoice -> Modular Contract Log
  * [#16082](https://github.com/metasfresh/metasfresh/issues/16082) VA-Auftrag IST-Start, IST-Start/ Ende after simulation complete CO
