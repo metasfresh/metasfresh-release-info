@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16115] (https://github.com/metasfresh/metasfresh/pull/16115) Manufacturing: Issue any product
  * [#16100](https://github.com/metasfresh/metasfresh/issues/16100) Vertragsbaustein Log - Export for editing
  * [#16097](https://github.com/metasfresh/metasfresh/pull/16097) Interim Contract Log / Interim ReceiptLine Log
  * [#16063](https://github.com/metasfresh/metasfresh/issues/16063) Sales Invoice -> Modular Contract Log
