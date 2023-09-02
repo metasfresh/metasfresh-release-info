@@ -13,6 +13,9 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16116](https://github.com/metasfresh/metasfresh/issues/16116) Modular contract logs for manufacturing: Positive/negative quantity for receipt/issue (resp.)
+ * [#16129](https://github.com/metasfresh/metasfresh/issues/16129) Adjustment business partner grid view and name search problem
+ * [#16118](https://github.com/metasfresh/metasfresh/issues/16118) Subtask 2 (Vertragsbausteinlog Caching & Co) - Async processing
  * [#16115] (https://github.com/metasfresh/metasfresh/pull/16115) Manufacturing: Issue any product
  * [#16100](https://github.com/metasfresh/metasfresh/issues/16100) Vertragsbaustein Log - Export for editing
  * [#16097](https://github.com/metasfresh/metasfresh/pull/16097) Interim Contract Log / Interim ReceiptLine Log
