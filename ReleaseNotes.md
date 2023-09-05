@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16150](https://github.com/metasfresh/metasfresh/issues/16150) Urproduzent Ableitung IPS nach metasfresh
  * [#16139](https://github.com/metasfresh/metasfresh/pull/16139) New columns in M_HU_Trace_Excel
  * [#16134](https://github.com/metasfresh/metasfresh/pull/16134) Add Open Sans Fonts
  * [#16116](https://github.com/metasfresh/metasfresh/issues/16116) Modular contract logs for manufacturing: Positive/negative quantity for receipt/issue (resp.)
