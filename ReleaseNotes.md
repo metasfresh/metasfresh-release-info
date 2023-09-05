@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16139](https://github.com/metasfresh/metasfresh/pull/16139) New columns in M_HU_Trace_Excel
  * [#16134](https://github.com/metasfresh/metasfresh/pull/16134) Add Open Sans Fonts
  * [#16116](https://github.com/metasfresh/metasfresh/issues/16116) Modular contract logs for manufacturing: Positive/negative quantity for receipt/issue (resp.)
  * [#16129](https://github.com/metasfresh/metasfresh/issues/16129) Adjustment business partner grid view and name search problem
