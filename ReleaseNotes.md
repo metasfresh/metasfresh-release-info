@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16171](https://github.com/metasfresh/metasfresh/pull/16171) Add C_BPartner_InterimContract_GenerateInterimInvoice process
  * [#16158](https://github.com/metasfresh/metasfresh/issues/16158) Import products from excel
  * [#16150](https://github.com/metasfresh/metasfresh/issues/16150) Urproduzent Ableitung IPS nach metasfresh
  * [#16139](https://github.com/metasfresh/metasfresh/pull/16139) New columns in M_HU_Trace_Excel
