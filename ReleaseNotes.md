@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16177](https://github.com/metasfresh/metasfresh/issues/16177) Sales Modular Contract and log  
  * [#16189](https://github.com/metasfresh/metasfresh/pull/16189) Credit Memo shall have no payment slip
  * [#16171](https://github.com/metasfresh/metasfresh/pull/16171) Add C_BPartner_InterimContract_GenerateInterimInvoice process
  * [#16158](https://github.com/metasfresh/metasfresh/issues/16158) Import products from excel
