@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16236](https://github.com/metasfresh/metasfresh/pull/16236) Shopware - Allow OLCand-Processing to be configurable
  * [#16239](https://github.com/metasfresh/metasfresh/pull/16239) Interim Invoice Log
  * [#16230](https://github.com/metasfresh/metasfresh/issues/16230) Add reltype shipment schedule to shipping notification
  * [#16196](https://github.com/metasfresh/metasfresh/issues/16196) Interim Invoice - Cucumber
