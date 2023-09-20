@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16230](https://github.com/metasfresh/metasfresh/issues/16230) Add reltype shipment schedule to shipping notification
  * [#16196](https://github.com/metasfresh/metasfresh/issues/16196) Interim Invoice - Cucumber
  * [#16197](https://github.com/metasfresh/metasfresh/pull/16197) Sales Bidding Invoice
  * [#16191](https://github.com/metasfresh/metasfresh/pull/16191) DESADV CU-Quantities in case of TU-UOMs
