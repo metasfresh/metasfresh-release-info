@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16279](https://github.com/metasfresh/metasfresh/pull/16279) Delete Erntekalender calendar
  * [#16181](https://github.com/metasfresh/metasfresh/issues/16181) SAP accounting journal gross invoice
  * [#16258](https://github.com/metasfresh/metasfresh/issues/16258) Sales Order -> Modular Contract Log (Sales)
  * [#16236](https://github.com/metasfresh/metasfresh/pull/16236) Shopware - Allow OLCand-Processing to be configurable
