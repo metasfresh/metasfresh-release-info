@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16306](https://github.com/metasfresh/metasfresh/issues/16306) Add Missing Translations
  * [#16281](https://github.com/metasfresh/metasfresh/issues/16281) Picking&Packing - add a posibility to prohibit the mix of HUs for different orders
  * [#16294](https://github.com/metasfresh/metasfresh/issues/16294) Modular contract log: customization and corrections
  * [#16284](https://github.com/metasfresh/metasfresh/issues/16284) Add the column "Invoicing Group" in the modular contract log
