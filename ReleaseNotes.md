@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16340](https://github.com/metasfresh/metasfresh/pull/16340) Implementing Shipping Notification-> Modular Contract Log
  * [#16351](https://github.com/metasfresh/metasfresh/pull/16351) Allow using marketing campaigns from * org
  * [#16328](https://github.com/metasfresh/metasfresh/issues/16328) New My Approvals window
  * [#16306](https://github.com/metasfresh/metasfresh/issues/16306) Add Missing Translations
