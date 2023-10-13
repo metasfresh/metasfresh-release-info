@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16435](https://github.com/metasfresh/metasfresh/issues/16435) Mobile UI - Manufacturing orders are not sorted by sequence
  * [#16430](https://github.com/metasfresh/metasfresh/pull/16430) Products Proposal modal update
  * [#16355](https://github.com/metasfresh/metasfresh/pull/16355) Modular Contract Log improvements 
  * [#16340](https://github.com/metasfresh/metasfresh/pull/16340) Implementing Shipping Notification-> Modular Contract Log
