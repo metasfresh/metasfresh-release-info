@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16451](https://github.com/metasfresh/metasfresh/issues/16451) Feature to hide AD_Client_ID/AD_Org_ID from all windows
  * [#16446](https://github.com/metasfresh/metasfresh/issues/16446) Mobile UI - Include Product Value in Issue Raw Materials
  * [#16435](https://github.com/metasfresh/metasfresh/issues/16435) Mobile UI - Manufacturing orders are not sorted by sequence
  * [#16430](https://github.com/metasfresh/metasfresh/pull/16430) Products Proposal modal update
