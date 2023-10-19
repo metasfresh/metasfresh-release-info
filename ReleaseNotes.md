@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16471](https://github.com/metasfresh/metasfresh/issues/16471) Introduce Mobile UI Picking Profile
  * [#16456](https://github.com/metasfresh/metasfresh/pull/16456) Process to receive additional HUs
  * [#16457](https://github.com/metasfresh/metasfresh/issues/16457) Remove jasper-process Picking Slot Label (Jasper)
  * [#16451](https://github.com/metasfresh/metasfresh/issues/16451) Feature to hide AD_Client_ID/AD_Org_ID from all windows
