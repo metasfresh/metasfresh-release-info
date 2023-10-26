@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16534](https://github.com/metasfresh/metasfresh/issues/16534) Use harvest calendar for modular and interim payment contracts
  * [#16516](https://github.com/metasfresh/metasfresh/issues/16516) Add Max Lot Size override in Manufacturing Candidate
  * [#16514](https://github.com/metasfresh/metasfresh/pull/16514) Switch to new DHL API
  * [#16484](https://github.com/metasfresh/metasfresh/issues/16484) Serial Number Production Automation - Implementation
