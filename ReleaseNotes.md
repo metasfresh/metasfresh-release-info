@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16574](https://github.com/metasfresh/metasfresh/issues/16574) Automatic update of contract periods based on checkbox shipping address and billing address 
  * [#16558](https://github.com/metasfresh/metasfresh/issues/16558) Use the price precision in jasper reports
  * [#16564](https://github.com/metasfresh/metasfresh/issues/16564) When picking, filter for the warehouse of the currently assigned workplace 
  * [#16550](https://github.com/metasfresh/metasfresh/pull/16550) removed C_DocType.CompletedNotification_BoilerPlate_ID column. Added AD_Org.Name as docOutbound mail context variable
