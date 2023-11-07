@@ -13,6 +13,8 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16617](https://github.com/metasfresh/metasfresh/pull/16617)
+   Printing - support different number of copies based on location
  * [#16524](https://github.com/metasfresh/metasfresh/issues/16524) API endpoint add greeting
  * [#16574](https://github.com/metasfresh/metasfresh/issues/16574) Automatic update of contract periods based on checkbox shipping address and billing address 
  * [#16558](https://github.com/metasfresh/metasfresh/issues/16558) Use the price precision in jasper reports
