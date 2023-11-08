@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16619](https://github.com/metasfresh/metasfresh/issues/16619) Deactivating of prices for discontinued products not working 
  * [#16617](https://github.com/metasfresh/metasfresh/pull/16617)
    Printing - support different number of copies based on location
  * [#16524](https://github.com/metasfresh/metasfresh/issues/16524) API endpoint add greeting
