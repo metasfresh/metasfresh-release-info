@@ -13,6 +13,8 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16629](https://github.com/metasfresh/metasfresh/issues/16629) mobile UI - HU manager: button to associate Leich+Mehl QR lot number to the HU QR Code of paloxe
+ * [#16628](https://github.com/metasfresh/metasfresh/issues/16628) mobile UI picking: When scanning a Leich+Mehl QR code we have to split out a TU from the palette
  * [#16619](https://github.com/metasfresh/metasfresh/issues/16619) Deactivating of prices for discontinued products not working 
  * [#16617](https://github.com/metasfresh/metasfresh/pull/16617)
    Printing - support different number of copies based on location
