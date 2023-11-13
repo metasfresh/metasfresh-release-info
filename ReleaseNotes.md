@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16609](https://github.com/metasfresh/metasfresh/issues/16609) Create Price list report for all business partners on a key date
  * [#16629](https://github.com/metasfresh/metasfresh/issues/16629) mobile UI - HU manager: button to associate Leich+Mehl QR lot number to the HU QR Code of paloxe
  * [#16628](https://github.com/metasfresh/metasfresh/issues/16628) mobile UI picking: When scanning a Leich+Mehl QR code we have to split out a TU from the palette
  * [#16619](https://github.com/metasfresh/metasfresh/issues/16619) Deactivating of prices for discontinued products not working 
