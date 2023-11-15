@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16688](https://github.com/metasfresh/metasfresh/issues/16688) Missing translation in Shipment Disposition
  * [#16660](https://github.com/metasfresh/metasfresh/issues/16660) ICs not created
  * [#16609](https://github.com/metasfresh/metasfresh/issues/16609) Create Price list report for all business partners on a key date
  * [#16629](https://github.com/metasfresh/metasfresh/issues/16629) mobile UI - HU manager: button to associate Leich+Mehl QR lot number to the HU QR Code of paloxe
