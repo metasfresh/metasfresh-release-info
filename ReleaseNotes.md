@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16625](https://github.com/metasfresh/metasfresh/pull/16625) Cache API improvements for observability (REST API) and configuration
  * [#16688](https://github.com/metasfresh/metasfresh/issues/16688) Missing translation in Shipment Disposition
  * [#16660](https://github.com/metasfresh/metasfresh/issues/16660) ICs not created
  * [#16609](https://github.com/metasfresh/metasfresh/issues/16609) Create Price list report for all business partners on a key date
