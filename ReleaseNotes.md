@@ -108,6 +108,7 @@ Here come the actual release notes:
  * [#15879](https://github.com/metasfresh/metasfresh/pull/15879) Create request for source org on bPartner org change
 ## Fixes
 * metasfresh
+* [#16740](https://github.com/metasfresh/metasfresh/pull/16740) Support at least 6 digist in the QR Code
 
 # metasfresh 5.176 (current RC)
 ## Features
