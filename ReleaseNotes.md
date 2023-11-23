@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16772](https://github.com/metasfresh/metasfresh/pull/16772) Sys Config webui.frontend.view.showCommentsMarker
  * [#16742](https://github.com/metasfresh/metasfresh/pull/16742) Move PLU File config to product
  * [#16743](https://github.com/metasfresh/metasfresh/pull/16743) Excel output for cost prices report
  * [#16644](https://github.com/metasfresh/metasfresh/pull/16644) mobile UI mfg - Configure to be able to pre-print QR codes
