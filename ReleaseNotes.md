@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16816](https://github.com/metasfresh/metasfresh/issues/16816) Extend lookup widget to 20 entries 
  * [#16769](https://github.com/metasfresh/metasfresh/issues/16769) ic114 - EDI - Add Quantities in price-UOM to DESADV-Pack-Item 
  * [#16772](https://github.com/metasfresh/metasfresh/pull/16772) Sys Config webui.frontend.view.showCommentsMarker
  * [#16742](https://github.com/metasfresh/metasfresh/pull/16742) Move PLU File config to product
