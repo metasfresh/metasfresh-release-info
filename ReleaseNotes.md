@@ -13,6 +13,8 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16815](https://github.com/metasfresh/metasfresh/pull/16815) modular contract settings unique index
+ * [#16789](https://github.com/metasfresh/metasfresh/pull/16789) DocumentCollection: on cache invalidate don't remove Document from cache if it's new and not already saved
  * [#16816](https://github.com/metasfresh/metasfresh/issues/16816) Extend lookup widget to 20 entries 
  * [#16769](https://github.com/metasfresh/metasfresh/issues/16769) ic114 - EDI - Add Quantities in price-UOM to DESADV-Pack-Item 
  * [#16772](https://github.com/metasfresh/metasfresh/pull/16772) Sys Config webui.frontend.view.showCommentsMarker
