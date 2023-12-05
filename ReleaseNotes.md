@@ -13,6 +13,9 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16807](https://github.com/metasfresh/metasfresh/issues/16807) Adjustment window Auftrag
+ * [#16794](https://github.com/metasfresh/metasfresh/pull/16794) Fix not working cache invalidation on source column changed
+ * [#16866](https://github.com/metasfresh/metasfresh/pull/16866) intensive care uat fixCacheInvalidationOnSourceColumnChange 2
  * [#16779](https://github.com/metasfresh/metasfresh/pull/16779) MobileUI - TargetWeight rounding, ignore non stocked components 
  * [#16802](https://github.com/metasfresh/metasfresh/pull/16802) MobileUI - Unload Funnel (Save Funnel weight) 
  * [#16830](https://github.com/metasfresh/metasfresh/pull/16830) Set Discontinued and Discontinued From columns as filters in the Produkt window
