@@ -13,6 +13,8 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16779](https://github.com/metasfresh/metasfresh/pull/16779) MobileUI - TargetWeight rounding, ignore non stocked components 
+ * [#16802](https://github.com/metasfresh/metasfresh/pull/16802) MobileUI - Unload Funnel (Save Funnel weight) 
  * [#16830](https://github.com/metasfresh/metasfresh/pull/16830) Set Discontinued and Discontinued From columns as filters in the Produkt window
  * [#16815](https://github.com/metasfresh/metasfresh/pull/16815) modular contract settings unique index
  * [#16789](https://github.com/metasfresh/metasfresh/pull/16789) DocumentCollection: on cache invalidate don't remove Document from cache if it's new and not already saved
