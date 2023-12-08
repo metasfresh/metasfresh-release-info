@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16791](https://github.com/metasfresh/metasfresh/issues/16791) Zählbestand Reihenfolge is not transferred to Material Cockpit  
  * [#16873](https://github.com/metasfresh/metasfresh/issues/16873) Product planning data is being ignored when manufacturing orders are generated automatically
  * [#16807](https://github.com/metasfresh/metasfresh/issues/16807) Adjustment window Auftrag
  * [#16794](https://github.com/metasfresh/metasfresh/pull/16794) Fix not working cache invalidation on source column changed
