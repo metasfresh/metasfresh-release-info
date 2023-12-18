@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16949](https://github.com/metasfresh/metasfresh/issues/16949) Compute order tax for the date promised
  * [#16898](https://github.com/metasfresh/metasfresh/issues/16898) MobileUI move HU to LU and support bulk scan
  * [#16791](https://github.com/metasfresh/metasfresh/issues/16791) Zählbestand Reihenfolge is not transferred to Material Cockpit  
  * [#16873](https://github.com/metasfresh/metasfresh/issues/16873) Product planning data is being ignored when manufacturing orders are generated automatically
