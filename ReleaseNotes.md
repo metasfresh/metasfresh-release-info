@@ -13,6 +13,10 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16976](https://github.com/metasfresh/metasfresh/pull/16976) FE Inline filter: fix caret which jumps to the end after each key pressed
+ * [#16972](https://github.com/metasfresh/metasfresh/pull/16972) FE Fix inline filter for the case when the parameters are empty
+ * [#16979](https://github.com/metasfresh/metasfresh/pull/16979) FE Fix included Tab shall load on changes
+ * [#16960](https://github.com/metasfresh/metasfresh/pull/16960) windowHandler.js reducer: preserve layout.activeTab when updating the layout 
  * [#16964](https://github.com/metasfresh/metasfresh/issues/16964) Warehouse in Shipment Disposition as search field  
  * [#16949](https://github.com/metasfresh/metasfresh/issues/16949) Compute order tax for the date promised
  * [#16898](https://github.com/metasfresh/metasfresh/issues/16898) MobileUI move HU to LU and support bulk scan
