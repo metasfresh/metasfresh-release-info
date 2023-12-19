@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16786](https://github.com/metasfresh/metasfresh/pull/16786) Dunning changes: copy poReference from source document, and allow using it (and the document prefix) as document number for the dunning document
  * [#16976](https://github.com/metasfresh/metasfresh/pull/16976) FE Inline filter: fix caret which jumps to the end after each key pressed
  * [#16972](https://github.com/metasfresh/metasfresh/pull/16972) FE Fix inline filter for the case when the parameters are empty
  * [#16979](https://github.com/metasfresh/metasfresh/pull/16979) FE Fix included Tab shall load on changes
