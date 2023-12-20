@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16993](https://github.com/metasfresh/metasfresh/pull/16993) Sort login roles by caption but keep system administrator as last
  * [#16786](https://github.com/metasfresh/metasfresh/pull/16786) Dunning changes: copy poReference from source document, and allow using it (and the document prefix) as document number for the dunning document
  * [#16976](https://github.com/metasfresh/metasfresh/pull/16976) FE Inline filter: fix caret which jumps to the end after each key pressed
  * [#16972](https://github.com/metasfresh/metasfresh/pull/16972) FE Fix inline filter for the case when the parameters are empty
