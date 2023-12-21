@@ -13,6 +13,9 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#16954](https://github.com/metasfresh/metasfresh/pull/16954) Add new column Fully delivered or invoiced in C_Order
+ * [#16902](https://github.com/metasfresh/metasfresh/pull/16902) Change REST API /hu/bySerialNo to return HUs with any status
+ * [#16944](https://github.com/metasfresh/metasfresh/pull/16944) Dynamic output of Mac addresses in REST API
  * [#16968](https://github.com/metasfresh/metasfresh/pull/16968) MobileUI - Change CU Qty of a TU
  * [#16993](https://github.com/metasfresh/metasfresh/pull/16993) Sort login roles by caption but keep system administrator as last
  * [#16786](https://github.com/metasfresh/metasfresh/pull/16786) Dunning changes: copy poReference from source document, and allow using it (and the document prefix) as document number for the dunning document
