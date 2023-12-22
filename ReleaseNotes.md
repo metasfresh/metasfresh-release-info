@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#17011](https://github.com/metasfresh/metasfresh/issues/17011) CSV-Process - Add option Remove quotes from Export CSV File header and lines
  * [#16954](https://github.com/metasfresh/metasfresh/pull/16954) Add new column Fully delivered or invoiced in C_Order
  * [#16902](https://github.com/metasfresh/metasfresh/pull/16902) Change REST API /hu/bySerialNo to return HUs with any status
  * [#16944](https://github.com/metasfresh/metasfresh/pull/16944) Dynamic output of Mac addresses in REST API
