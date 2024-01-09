@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#17066](https://github.com/metasfresh/metasfresh/issues/17066) Port the fix for PP_Product_Bom_Recursive to release
  * [#17015](https://github.com/metasfresh/metasfresh/pull/17015) Introduce AD_Process.FilenamePattern
  * [#17047](https://github.com/metasfresh/metasfresh/pull/17047) Printing Store-To-Disk - Add option to include AD_PInstance_ID in PDF filename
  * [#17011](https://github.com/metasfresh/metasfresh/issues/17011) CSV-Process - Add option Remove quotes from Export CSV File header and lines
