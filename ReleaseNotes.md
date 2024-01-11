@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#17096](https://github.com/metasfresh/metasfresh/issues/17096) Error when deleting production orders or changing products in po
  * [#17099](https://github.com/metasfresh/metasfresh/issues/17099) Product maturing - 1 - tables and configs
  * [#17088](https://github.com/metasfresh/metasfresh/issues/17088) Bewegungsdatum shall be current date in shipment
  * [#17066](https://github.com/metasfresh/metasfresh/issues/17066) Port the fix for PP_Product_Bom_Recursive to release
