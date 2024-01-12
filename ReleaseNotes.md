@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#17013](https://github.com/metasfresh/metasfresh/pull/17013) High server utilization due to QtyDemand_QtySupply_V
  * [#17108](https://github.com/metasfresh/metasfresh/pull/17108) Add index for better perf if there are many unprocessed workpackages
  * [#17096](https://github.com/metasfresh/metasfresh/issues/17096) Error when deleting production orders or changing products in po
  * [#17099](https://github.com/metasfresh/metasfresh/issues/17099) Product maturing - 1 - tables and configs
