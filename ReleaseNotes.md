@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#17132](https://github.com/metasfresh/metasfresh/pull/17132) Material Cockpit Aggregation with default value PLANT 
  * [#17069](https://github.com/metasfresh/metasfresh/pull/17069) Material cockpit warehouse
  * [#17013](https://github.com/metasfresh/metasfresh/pull/17013) High server utilization due to QtyDemand_QtySupply_V
  * [#17108](https://github.com/metasfresh/metasfresh/pull/17108) Add index for better perf if there are many unprocessed workpackages
