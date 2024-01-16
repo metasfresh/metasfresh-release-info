@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#17136](https://github.com/metasfresh/metasfresh/pull/17136) Missing translations in Role window
  * [#17131](https://github.com/metasfresh/metasfresh/pull/17131) hu_label: optionally return more attributes 
  * [#17132](https://github.com/metasfresh/metasfresh/pull/17132) Material Cockpit Aggregation with default value PLANT 
  * [#17069](https://github.com/metasfresh/metasfresh/pull/17069) Material cockpit warehouse
