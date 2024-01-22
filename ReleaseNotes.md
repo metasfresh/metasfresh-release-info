@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#17176](https://github.com/metasfresh/metasfresh/issues/17176) Allow date in the past for Material Receipt
  * [#17170](https://github.com/metasfresh/metasfresh/issues/17170) e-Invoices: Introduce PostFinance config tables
  * [#17138](https://github.com/metasfresh/metasfresh/pull/17138) HU-API - allow including some empty attributes
  * [#17139](https://github.com/metasfresh/metasfresh/issues/17139) payment allocation Coop without Markant
