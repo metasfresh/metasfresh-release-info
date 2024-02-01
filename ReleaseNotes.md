@@ -13,6 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * metasfresh
+ * [#17219](https://github.com/metasfresh/metasfresh/pull/17219) Make sure only active Sales Order Candidates are processed
  * [#17209](https://github.com/metasfresh/metasfresh/pull/17209) PLU field mapping
  * [#17161](https://github.com/metasfresh/metasfresh/issues/17161) Introduce Qty to Invoice in UOM Override in Invoice Candidates
  * [#17183](https://github.com/metasfresh/metasfresh/issues/17183) Variable Mass_Generate_Lines generates error message   
