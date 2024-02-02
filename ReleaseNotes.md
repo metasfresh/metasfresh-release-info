@@ -12,8 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
-* metasfresh
- * [#17219](https://github.com/metasfresh/metasfresh/pull/17219) Make sure only active Sales Order Candidates are processed
+ * [#17241](https://github.com/metasfresh/metasfresh/pull/17241) Set AD_SysConfig InvoiceCandidateEnqueuer.FailOnChanges to 'N'
+ * [#17216](https://github.com/metasfresh/metasfresh/pull/17216) Avoid unneeded export-invoice WPs during mass-invoicing
  * [#17209](https://github.com/metasfresh/metasfresh/pull/17209) PLU field mapping
  * [#17161](https://github.com/metasfresh/metasfresh/issues/17161) Introduce Qty to Invoice in UOM Override in Invoice Candidates
  * [#17183](https://github.com/metasfresh/metasfresh/issues/17183) Variable Mass_Generate_Lines generates error message   
@@ -156,8 +156,8 @@ Here come the actual release notes:
  * [#15842](https://github.com/metasfresh/metasfresh/pull/15842) Modular Contract: Receipt
  * [#15879](https://github.com/metasfresh/metasfresh/pull/15879) Create request for source org on bPartner org change
 ## Fixes
-* metasfresh
-* [#16740](https://github.com/metasfresh/metasfresh/pull/16740) Support at least 6 digist in the QR Code
+ * [#17219](https://github.com/metasfresh/metasfresh/pull/17219) Make sure only active Sales Order Candidates are processed
+ * [#16740](https://github.com/metasfresh/metasfresh/pull/16740) Support at least 6 digist in the QR Code
 
 # metasfresh 5.176 (current RC)
 ## Features
