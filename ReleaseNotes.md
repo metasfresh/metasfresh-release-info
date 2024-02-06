@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17285](https://github.com/metasfresh/metasfresh/issues/17285) Implementation: Purchase Request (M_Requisition) Workflow: errors from acceptance test
  * [#17242](https://github.com/metasfresh/metasfresh/pull/17242) New QR Code authentication badge report
  * [#17241](https://github.com/metasfresh/metasfresh/pull/17241) Set AD_SysConfig InvoiceCandidateEnqueuer.FailOnChanges to 'N'
  * [#17216](https://github.com/metasfresh/metasfresh/pull/17216) Avoid unneeded export-invoice WPs during mass-invoicing
