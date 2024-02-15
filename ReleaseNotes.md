@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17210](https://github.com/metasfresh/metasfresh/issues/17210) Update the report_NextVsCurrentPricelistComparison report
  * [#17205](https://github.com/metasfresh/metasfresh/issues/17205) Product Maturing - 2 - Candidates process
  * [#17283](https://github.com/metasfresh/metasfresh/pull/17283) Product Maturing - 3 - Material disposition
  * [#17194](https://github.com/metasfresh/metasfresh/issues/17194) Product Maturing - 4 - Maturing order process
