@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17452](https://github.com/metasfresh/metasfresh/pull/17452) Fixing `RecreateInvoiceWorkpackageProcessor` processor
  * [#17426](https://github.com/metasfresh/metasfresh/pull/17426) Update `GL Journal` window
  * [#17377](https://github.com/metasfresh/metasfresh/pull/17377) Product Maturing - 5 - Cucumbers
  * [#17210](https://github.com/metasfresh/metasfresh/issues/17210) Update the report_NextVsCurrentPricelistComparison report
