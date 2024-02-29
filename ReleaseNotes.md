@@ -166,6 +166,7 @@ Here come the actual release notes:
  * [#15842](https://github.com/metasfresh/metasfresh/pull/15842) Modular Contract: Receipt
  * [#15879](https://github.com/metasfresh/metasfresh/pull/15879) Create request for source org on bPartner org change
 ## Fixes
+ * [#17451](https://github.com/metasfresh/metasfresh/pull/17451) Fix PaySelectionLine's pay-amount in case of payment-discount
  * [#17317](https://github.com/metasfresh/metasfresh/pull/17317) Fix that C_Printing_Queue.Copies is not used when printing to disk or externalsystems
  * [#17291](https://github.com/metasfresh/metasfresh/pull/17291) Fix AD_PrinterRouting matching and NumberOfCopies in M_HU_Report_QRCode.java
  * [#17219](https://github.com/metasfresh/metasfresh/pull/17219) Make sure only active Sales Order Candidates are processed
