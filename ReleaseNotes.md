@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17521](https://github.com/metasfresh/metasfresh/issues/17521) Trading Desk - Zählbestand Reihenfolge is not applied correctly
  * [#17400](https://github.com/metasfresh/metasfresh/pull/17400) Optimizing deleting product BOM lines
  * [#17452](https://github.com/metasfresh/metasfresh/pull/17452) Fixing `RecreateInvoiceWorkpackageProcessor` processor
  * [#17426](https://github.com/metasfresh/metasfresh/pull/17426) Update `GL Journal` window
