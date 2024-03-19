@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17614](https://github.com/metasfresh/metasfresh/issues/17614) Create REST Endpoint to upsert Warehouse
  * [#17577](https://github.com/metasfresh/metasfresh/issues/17577) Invoice candidate is not billed
  * [#17549](https://github.com/metasfresh/metasfresh/issues/17549) Add a `SysConfig` to switch off `ApiAuditHouseKeepingTask`
  * [#17320](https://github.com/metasfresh/metasfresh/issues/17320) e-Invoices 2: PostFinance Customer Registration Messages
