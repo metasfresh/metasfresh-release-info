@@ -81,7 +81,6 @@ Here come the actual release notes:
  * [#16743](https://github.com/metasfresh/metasfresh/pull/16743) Excel output for cost prices report
  * [#16644](https://github.com/metasfresh/metasfresh/pull/16644) mobile UI mfg - Configure to be able to pre-print QR codes
  * [#16551](https://github.com/metasfresh/metasfresh/pull/16551) Distribute cucumber-tests over more runners
- * [#16625](https://github.com/metasfresh/metasfresh/pull/16625) Cache API improvements for observability (REST API) and configuration
  * [#16688](https://github.com/metasfresh/metasfresh/issues/16688) Missing translation in Shipment Disposition
  * [#16660](https://github.com/metasfresh/metasfresh/issues/16660) ICs not created
  * [#16609](https://github.com/metasfresh/metasfresh/issues/16609) Create Price list report for all business partners on a key date
@@ -182,6 +181,7 @@ Here come the actual release notes:
 # metasfresh 5.176 (current RC)
 ## Features
 * metasfresh
+  * [#16625](https://github.com/metasfresh/metasfresh/pull/16625) Cache API improvements for observability (REST API) and configuration
   * [#15910](https://github.com/metasfresh/metasfresh/issues/15910) Validate contract terms for modular contracts
   * [#15897](https://github.com/metasfresh/metasfresh/issues/15897) (Bestellung -> Vertragsbaustein Log) - Overview and test the entire feature -> fixes
   * [#15864](https://github.com/metasfresh/metasfresh/issues/15863) Open Items (managed) window
