@@ -91,8 +91,7 @@ Here come the actual release notes:
  * [#16629](https://github.com/metasfresh/metasfresh/issues/16629) mobile UI - HU manager: button to associate Leich+Mehl QR lot number to the HU QR Code of paloxe
  * [#16628](https://github.com/metasfresh/metasfresh/issues/16628) mobile UI picking: When scanning a Leich+Mehl QR code we have to split out a TU from the palette
  * [#16619](https://github.com/metasfresh/metasfresh/issues/16619) Deactivating of prices for discontinued products not working 
- * [#16617](https://github.com/metasfresh/metasfresh/pull/16617)
-   Printing - support different number of copies based on location
+ * [#16617](https://github.com/metasfresh/metasfresh/pull/16617) Printing - support different number of copies based on location
  * [#16524](https://github.com/metasfresh/metasfresh/issues/16524) API endpoint add greeting
  * [#16574](https://github.com/metasfresh/metasfresh/issues/16574) Automatic update of contract periods based on checkbox shipping address and billing address 
  * [#16558](https://github.com/metasfresh/metasfresh/issues/16558) Use the price precision in jasper reports
@@ -176,6 +175,7 @@ Here come the actual release notes:
  * [#15842](https://github.com/metasfresh/metasfresh/pull/15842) Modular Contract: Receipt
  * [#15879](https://github.com/metasfresh/metasfresh/pull/15879) Create request for source org on bPartner org change
 ## Fixes
+ * [#17690](https://github.com/metasfresh/metasfresh/pull/17690) Column R_Request was removed sometime ago. Now also adapting model classes
  * [#17451](https://github.com/metasfresh/metasfresh/pull/17451) Fix PaySelectionLine's pay-amount in case of payment-discount
  * [#17317](https://github.com/metasfresh/metasfresh/pull/17317) Fix that C_Printing_Queue.Copies is not used when printing to disk or externalsystems
  * [#17291](https://github.com/metasfresh/metasfresh/pull/17291) Fix AD_PrinterRouting matching and NumberOfCopies in M_HU_Report_QRCode.java
