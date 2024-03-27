@@ -12,6 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17706](https://github.com/metasfresh/metasfresh/pull/17706) mobile UI: Prevent aggregating Weight-related attributes
+ * [#17696](https://github.com/metasfresh/metasfresh/pull/17696) mobile UI: Aggregate picked CUs to LU/TU on pick complete
  * [#17674](https://github.com/metasfresh/metasfresh/pull/17674) Enable API-updates of S_ExternalReference records also by selecting them with their previous reference
  * [#17663](https://github.com/metasfresh/metasfresh/pull/17663) Shipment is not created, already shipped HU assigned
  * [#17604](https://github.com/metasfresh/metasfresh/pull/17604) Setting the parent project when transferring the test order
