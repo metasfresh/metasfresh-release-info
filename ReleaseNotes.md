@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17755](https://github.com/metasfresh/metasfresh/issues/17755) Field Pricelist Version with alphabetical sorting and text search
  * [#17712](https://github.com/metasfresh/metasfresh/pull/17712) Retrieve Postfinance Results
  * [#17706](https://github.com/metasfresh/metasfresh/pull/17706) mobile UI: Prevent aggregating Weight-related attributes
  * [#17696](https://github.com/metasfresh/metasfresh/pull/17696) mobile UI: Aggregate picked CUs to LU/TU on pick complete
