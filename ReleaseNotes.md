@@ -517,6 +517,7 @@ Here come the actual release notes:
 
 ## Fixes
 * metasfresh
+  * [#17719](https://github.com/metasfresh/metasfresh/pull/17719) Make camel-edi and metasfresh use the same exchanges and change them from topic to direct
   * [#15751](https://github.com/metasfresh/metasfresh/pull/15751) Fix FTS type error
   * [#15752](https://github.com/metasfresh/metasfresh/pull/15752) update lucene dependency version to match elasticsearch
   * [#15698](https://github.com/metasfresh/metasfresh/issues/15698) BUG: C_Project_ID gets overwritten when propagated to shipment line
