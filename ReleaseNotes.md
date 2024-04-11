@@ -12,6 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17779](https://github.com/metasfresh/metasfresh/pull/17779) Feature Project Time Tracking
+ * [#17813](https://github.com/metasfresh/metasfresh/pull/17813) Not all picking-slots cleared after picking
  * [#17765](https://github.com/metasfresh/metasfresh/pull/17765) Move interim invoice creation from partner to contract 
  * [#17680](https://github.com/metasfresh/metasfresh/issues/17680) Pro Care Management External System
  * [#17755](https://github.com/metasfresh/metasfresh/issues/17755) Field Pricelist Version with alphabetical sorting and text search
