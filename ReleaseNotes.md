@@ -180,6 +180,7 @@ Here come the actual release notes:
  * [#15842](https://github.com/metasfresh/metasfresh/pull/15842) Modular Contract: Receipt
  * [#15879](https://github.com/metasfresh/metasfresh/pull/15879) Create request for source org on bPartner org change
 ## Fixes
+ * [#17797](https://github.com/metasfresh/metasfresh/pull/17797) Material-Tracking - Add CountryId to PricingCtx; also remove unused class
  * [#17690](https://github.com/metasfresh/metasfresh/pull/17690) Column R_Request was removed sometime ago. Now also adapting model classes
  * [#17451](https://github.com/metasfresh/metasfresh/pull/17451) Fix PaySelectionLine's pay-amount in case of payment-discount
  * [#17317](https://github.com/metasfresh/metasfresh/pull/17317) Fix that C_Printing_Queue.Copies is not used when printing to disk or externalsystems
