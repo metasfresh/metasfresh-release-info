@@ -12,6 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17945](https://github.com/metasfresh/metasfresh/pull/17945) The interim invoice logs should point to the modular contract
+ * [#17915](https://github.com/metasfresh/metasfresh/pull/17915) Interim computing method 
  * [#17735](https://github.com/metasfresh/metasfresh/issues/17735) Pro Care Management - Import Purchase Orders and Masterdata
  * [#17740](https://github.com/metasfresh/metasfresh/issues/17740) Product Endpoint add Product Tax Category
  * [#17864](https://github.com/metasfresh/metasfresh/pull/17779) Prevent users from changing `M_AttributeValue.Value` of existing records.
