@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18042](https://github.com/metasfresh/metasfresh/issues/18042) Manufacturing: Co-Product Computing Method
  * [#17998](https://github.com/metasfresh/metasfresh/issues/17998) Update `Product` in `Sales Order line` and `Sales Invoice Disposition`
  * [#17983](https://github.com/metasfresh/metasfresh/issues/17983) Processed Products Sales Computing method
  * [#17977](https://github.com/metasfresh/metasfresh/pull/17977) Contracts window adjustments
