@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18083](https://github.com/metasfresh/metasfresh/pull/18083) Add contract module types via migration scripts 
  * [#18066](https://github.com/metasfresh/metasfresh/issues/18066) Select only active nutritions in `Product Specifications` report
  * [#18032](https://github.com/metasfresh/metasfresh/issues/18032) Add missing translations for Delivery Planning and Delivey Instructions
  * [#18042](https://github.com/metasfresh/metasfresh/issues/18042) Manufacturing: Co-Product Computing Method
