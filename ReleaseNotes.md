@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18137](https://github.com/metasfresh/metasfresh/pull/18137) BUG - it is not possible to filter by account number
  * [#18105](https://github.com/metasfresh/metasfresh/pull/18105) Copy `PO reference` from `Purchase Order` to `Material Receipt`
  * [#18083](https://github.com/metasfresh/metasfresh/pull/18083) Add contract module types via migration scripts 
  * [#18066](https://github.com/metasfresh/metasfresh/issues/18066) Select only active nutritions in `Product Specifications` report
