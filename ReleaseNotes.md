@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18163](https://github.com/metasfresh/metasfresh/issues/18163) Problems importing orders (EDI_M_HU_PI_Item_Product_Lookup_UPC_v considers inactive records)
  * [#18030](https://github.com/metasfresh/metasfresh/pull/18030) Definitive Invoice Computing Methods
  * [#18137](https://github.com/metasfresh/metasfresh/pull/18137) BUG - it is not possible to filter by account number
  * [#18105](https://github.com/metasfresh/metasfresh/pull/18105) Copy `PO reference` from `Purchase Order` to `Material Receipt`
