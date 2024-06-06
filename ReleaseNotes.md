@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18143](https://github.com/metasfresh/metasfresh/issues/18143) Add new process `Update Partner Memo`
  * [#18171](https://github.com/metasfresh/metasfresh/issues/18171) Display Map - Geocoding Konfiguration do not work
  * [#18163](https://github.com/metasfresh/metasfresh/issues/18163) Problems importing orders (EDI_M_HU_PI_Item_Product_Lookup_UPC_v considers inactive records)
  * [#18030](https://github.com/metasfresh/metasfresh/pull/18030) Definitive Invoice Computing Methods
