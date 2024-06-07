@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#17944](https://github.com/metasfresh/metasfresh/pull/17944) FlatFee contracts with invoiced Reported Quanties
  * [#18169](https://github.com/metasfresh/metasfresh/issues/18169) Replace the newline characters `(\n)` with a `space` in input fields
  * [#18143](https://github.com/metasfresh/metasfresh/issues/18143) Add new process `Update Partner Memo`
  * [#18171](https://github.com/metasfresh/metasfresh/issues/18171) Display Map - Geocoding Konfiguration do not work
