@@ -543,6 +543,7 @@ Here come the actual release notes:
 
 ## Fixes
 * metasfresh
+  * [#18192](https://github.com/metasfresh/metasfresh/pull/18192) Prevend DBuniqueConstraintException when updating invoice candidates
   * [#17437](https://github.com/metasfresh/metasfresh/pull/17437) Dunning candidate creation problems in release version 5.176
   * [#17719](https://github.com/metasfresh/metasfresh/pull/17719) Make camel-edi and metasfresh use the same exchanges and change them from topic to direct
   * [#15751](https://github.com/metasfresh/metasfresh/pull/15751) Fix FTS type error
