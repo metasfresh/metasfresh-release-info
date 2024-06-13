@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18233](https://github.com/metasfresh/metasfresh/issues/18233) Invoicing from invoice candidates not possible
  * [#18152](https://github.com/metasfresh/metasfresh/pull/18152) Remove the requirements for every INVOIC bpartner to have a VATaxID
  * [#17944](https://github.com/metasfresh/metasfresh/pull/17944) FlatFee contracts with invoiced Reported Quanties
  * [#18169](https://github.com/metasfresh/metasfresh/issues/18169) Replace the newline characters `(\n)` with a `space` in input fields
