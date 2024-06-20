@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18270](https://github.com/metasfresh/metasfresh/issues/18270) Update `fresh_Attributes` function
  * [#18254](https://github.com/metasfresh/metasfresh/issues/18254) Inactive products with qty in warehouse
  * [#18233](https://github.com/metasfresh/metasfresh/issues/18233) Invoicing from invoice candidates not possible
  * [#18152](https://github.com/metasfresh/metasfresh/pull/18152) Remove the requirements for every INVOIC bpartner to have a VATaxID
