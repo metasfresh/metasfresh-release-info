@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18320](https://github.com/metasfresh/metasfresh/issues/18320) Introduce QtyEntered_Override into C_olcand to override Qty from EDI
  * [#18288](https://github.com/metasfresh/metasfresh/issues/18288) mobile UI: Production - Switch to DateStartSchedule and show product value
  * [#18291](https://github.com/metasfresh/metasfresh/issues/18291) Filter Nutzer
  * [#18270](https://github.com/metasfresh/metasfresh/issues/18270) Update `fresh_Attributes` function
