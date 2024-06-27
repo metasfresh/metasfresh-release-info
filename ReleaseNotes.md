@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18331](https://github.com/metasfresh/metasfresh/issues/18331) Modular contracts - Allow ability to reverse an interim, final or definitive invoice
  * [#18259](https://github.com/metasfresh/metasfresh/issues/18259) One DESADV per shipment
  * [#18320](https://github.com/metasfresh/metasfresh/issues/18320) Introduce QtyEntered_Override into C_olcand to override Qty from EDI
  * [#18288](https://github.com/metasfresh/metasfresh/issues/18288) mobile UI: Production - Switch to DateStartSchedule and show product value
