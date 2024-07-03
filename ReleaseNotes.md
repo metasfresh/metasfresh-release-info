@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18349](https://github.com/metasfresh/metasfresh/issues/18349) Create UOM-Conversions while importing article-csv
  * [#18331](https://github.com/metasfresh/metasfresh/issues/18331) Modular contracts - Allow ability to reverse an interim, final or definitive invoice
  * [#18259](https://github.com/metasfresh/metasfresh/issues/18259) One DESADV per shipment
  * [#18320](https://github.com/metasfresh/metasfresh/issues/18320) Introduce QtyEntered_Override into C_olcand to override Qty from EDI
