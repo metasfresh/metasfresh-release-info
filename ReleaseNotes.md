@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18411](https://github.com/metasfresh/metasfresh/issues/18411) Dunning fee amount update
  * [#18379](https://github.com/metasfresh/metasfresh/issues/18379) Warehouse BPartner + Allow location
  * [#18349](https://github.com/metasfresh/metasfresh/issues/18349) Create UOM-Conversions while importing article-csv
  * [#18331](https://github.com/metasfresh/metasfresh/issues/18331) Modular contracts - Allow ability to reverse an interim, final or definitive invoice
