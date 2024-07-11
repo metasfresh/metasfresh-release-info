@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18431](https://github.com/metasfresh/metasfresh/pull/18431) Added AD_Tab.InsertLogic and logic to regulate when creation of new records is not a simple yes/no flag
  * [#18417](https://github.com/metasfresh/metasfresh/issues/18417) Mobile UI: HU Manager - make visible attributes configurable
  * [#18411](https://github.com/metasfresh/metasfresh/issues/18411) Dunning fee amount update
  * [#18379](https://github.com/metasfresh/metasfresh/issues/18379) Warehouse BPartner + Allow location
