@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18502](https://github.com/metasfresh/metasfresh/issues/18502) Show Process M_HU_Report_QRCode in HU Editor only on active HUs
  * [#18489](https://github.com/metasfresh/metasfresh/pull/18489) Default Picking Slot Set by Workstation
  * [#18431](https://github.com/metasfresh/metasfresh/pull/18431) Added AD_Tab.InsertLogic and logic to regulate when creation of new records is not a simple yes/no flag
  * [#18417](https://github.com/metasfresh/metasfresh/issues/18417) Mobile UI: HU Manager - make visible attributes configurable
