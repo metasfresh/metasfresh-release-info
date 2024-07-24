@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18535](https://github.com/metasfresh/metasfresh/issues/18535) Respect Default Payment Term when Invoicing
  * [#18520](https://github.com/metasfresh/metasfresh/issues/18520) MobileUI Picking - Extend Picking Profile to control Button for New LU
  * [#18502](https://github.com/metasfresh/metasfresh/issues/18502) Show Process M_HU_Report_QRCode in HU Editor only on active HUs
  * [#18489](https://github.com/metasfresh/metasfresh/pull/18489) Default Picking Slot Set by Workstation
