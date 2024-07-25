@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.177 (upcoming RC)
 
 ## Features
+ * [#18479](https://github.com/metasfresh/metasfresh/issues/18479) Mobile UI: Production process
  * [#18532](https://github.com/metasfresh/metasfresh/issues/18532) EDI-INVOIC - Support Payment-Discount
  * [#18535](https://github.com/metasfresh/metasfresh/issues/18535) Respect Default Payment Term when Invoicing
  * [#18520](https://github.com/metasfresh/metasfresh/issues/18520) MobileUI Picking - Extend Picking Profile to control Button for New LU
