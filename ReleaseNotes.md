@@ -9,14 +9,22 @@ Additional notes:
 
 Here come the actual release notes:
 
-# metasfresh 5.177 (upcoming RC)
+# metasfresh 5.178 (upcoming RC)
 
 ## Features
- * [#18479](https://github.com/metasfresh/metasfresh/issues/18479) Mobile UI: Production process
- * [#18532](https://github.com/metasfresh/metasfresh/issues/18532) EDI-INVOIC - Support Payment-Discount
- * [#18535](https://github.com/metasfresh/metasfresh/issues/18535) Respect Default Payment Term when Invoicing
- * [#18520](https://github.com/metasfresh/metasfresh/issues/18520) MobileUI Picking - Extend Picking Profile to control Button for New LU
- * [#18502](https://github.com/metasfresh/metasfresh/issues/18502) Show Process M_HU_Report_QRCode in HU Editor only on active HUs
+
+* [#18558](https://github.com/metasfresh/metasfresh/issues/18558) Add dedicated EDI_Desadv_Pack.Line column 
+* [#18479](https://github.com/metasfresh/metasfresh/issues/18479) Mobile UI: Production process
+* [#18532](https://github.com/metasfresh/metasfresh/issues/18532) EDI-INVOIC - Support Payment-Discount
+* [#18535](https://github.com/metasfresh/metasfresh/issues/18535) Respect Default Payment Term when Invoicing
+* [#18520](https://github.com/metasfresh/metasfresh/issues/18520) MobileUI Picking - Extend Picking Profile to control Button for New LU
+* [#18502](https://github.com/metasfresh/metasfresh/issues/18502) Show Process M_HU_Report_QRCode in HU Editor only on active HUs
+
+## Fixes
+
+# metasfresh 5.177 (current RC)
+
+## Features
  * [#18489](https://github.com/metasfresh/metasfresh/pull/18489) Default Picking Slot Set by Workstation
  * [#18431](https://github.com/metasfresh/metasfresh/pull/18431) Added AD_Tab.InsertLogic and logic to regulate when creation of new records is not a simple yes/no flag
  * [#18417](https://github.com/metasfresh/metasfresh/issues/18417) Mobile UI: HU Manager - make visible attributes configurable
@@ -233,7 +241,7 @@ Here come the actual release notes:
  * [#17219](https://github.com/metasfresh/metasfresh/pull/17219) Make sure only active Sales Order Candidates are processed
  * [#16740](https://github.com/metasfresh/metasfresh/pull/16740) Support at least 6 digist in the QR Code
 
-# metasfresh 5.176 (current RC)
+# metasfresh 5.176
 ## Features
 * metasfresh
   * [#16625](https://github.com/metasfresh/metasfresh/pull/16625) Cache API improvements for observability (REST API) and configuration
