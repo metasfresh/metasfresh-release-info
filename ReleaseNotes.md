@@ -12,7 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
-
+* [#18554](https://github.com/metasfresh/metasfresh/issues/18554) Extend Feature Automatic Lot Number
 * [#18558](https://github.com/metasfresh/metasfresh/issues/18558) Add dedicated EDI_Desadv_Pack.Line column 
 * [#18479](https://github.com/metasfresh/metasfresh/issues/18479) Mobile UI: Production process
 * [#18532](https://github.com/metasfresh/metasfresh/issues/18532) EDI-INVOIC - Support Payment-Discount
