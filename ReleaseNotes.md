@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18645](https://github.com/metasfresh/metasfresh/issues/18645) Prevent reversing shipments when invoice exists
 * [#18572](https://github.com/metasfresh/metasfresh/issues/18572) Debitoren Storno Massenprozess
 * [#18554](https://github.com/metasfresh/metasfresh/issues/18554) Extend Feature Automatic Lot Number
 * [#18558](https://github.com/metasfresh/metasfresh/issues/18558) Add dedicated EDI_Desadv_Pack.Line column 
