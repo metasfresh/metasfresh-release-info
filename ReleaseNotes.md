@@ -235,6 +235,7 @@ Here come the actual release notes:
  * [#15842](https://github.com/metasfresh/metasfresh/pull/15842) Modular Contract: Receipt
  * [#15879](https://github.com/metasfresh/metasfresh/pull/15879) Create request for source org on bPartner org change
 ## Fixes
+ * [#18690](https://github.com/metasfresh/metasfresh/pull/18690) Fix bug where `C_Order.M_PriceList_ID` was set to the wrong value
  * [#17901](https://github.com/metasfresh/metasfresh/pull/17901) Fix problems around material receipt events and the display of stock-estimate SeqNos
  * [#17801](https://github.com/metasfresh/metasfresh/issues/17801) Fix process Create purchase orders to work with imported candidates
  * [#17797](https://github.com/metasfresh/metasfresh/pull/17797) Material-Tracking - Add CountryId to PricingCtx; also remove unused class
