@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18716](https://github.com/metasfresh/metasfresh/issues/18716) Revamp C_InvoiceSchedule UI for large numbers of invoice candidates
 * [#18700](https://github.com/metasfresh/metasfresh/pull/18700) Improvement to the error-message in case an Upsert-Item contains a new partner but an existing bankaccount
 * [#18656](https://github.com/metasfresh/metasfresh/issues/18656) BOM Name optional
 * [#18645](https://github.com/metasfresh/metasfresh/issues/18645) Prevent reversing shipments when invoice exists
@@ -25,6 +26,7 @@ Here come the actual release notes:
 * [#18502](https://github.com/metasfresh/metasfresh/issues/18502) Show Process M_HU_Report_QRCode in HU Editor only on active HUs
 
 ## Fixes
+
 
 # metasfresh 5.177 (current RC)
 
