@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18720](https://github.com/metasfresh/metasfresh/pull/18720) Invoice candidates for non-stocked item products
 * [#18716](https://github.com/metasfresh/metasfresh/issues/18716) Revamp C_InvoiceSchedule UI for large numbers of invoice candidates
 * [#18700](https://github.com/metasfresh/metasfresh/pull/18700) Improvement to the error-message in case an Upsert-Item contains a new partner but an existing bankaccount
 * [#18656](https://github.com/metasfresh/metasfresh/issues/18656) BOM Name optional
