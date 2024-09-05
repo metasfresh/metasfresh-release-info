@@ -12,6 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18770](https://github.com/metasfresh/metasfresh/pull/18770) MobileUI Picking (F0230) - Introducing new TUs
+* [#18737](https://github.com/metasfresh/metasfresh/pull/18737) MobileUI Picking - TU with Catch Weight
 * [#18639](https://github.com/metasfresh/metasfresh/pull/18639) Fix invoice-candidate invoicing UOM problem
 * [#18720](https://github.com/metasfresh/metasfresh/pull/18720) Invoice candidates for non-stocked item products
 * [#18716](https://github.com/metasfresh/metasfresh/issues/18716) Revamp C_InvoiceSchedule UI for large numbers of invoice candidates
@@ -33,8 +35,6 @@ Here come the actual release notes:
 # metasfresh 5.177 (current RC)
 
 ## Features
- * [#18770](https://github.com/metasfresh/metasfresh/pull/18770) MobileUI Picking (F0230) - Introducing new TUs
- * [#18737](https://github.com/metasfresh/metasfresh/pull/18737) MobileUI Picking - TU with Catch Weight
  * [#18671](https://github.com/metasfresh/metasfresh/pull/18671) Show Qty in TU UOM in Material Cockpit (based on default packing capacity)
  * [#18489](https://github.com/metasfresh/metasfresh/pull/18489) Default Picking Slot Set by Workstation
  * [#18431](https://github.com/metasfresh/metasfresh/pull/18431) Added AD_Tab.InsertLogic and logic to regulate when creation of new records is not a simple yes/no flag
