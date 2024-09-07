@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18801](https://github.com/metasfresh/metasfresh/issues/18801) Make POReference normal column
 * [#18765](https://github.com/metasfresh/metasfresh/pull/18765) Adding `DD_Order` <-> `DD_Order_Candidate` relation types
 * [#18770](https://github.com/metasfresh/metasfresh/pull/18770) MobileUI Picking (F0230) - Introducing new TUs
 * [#18737](https://github.com/metasfresh/metasfresh/pull/18737) MobileUI Picking - TU with Catch Weight
