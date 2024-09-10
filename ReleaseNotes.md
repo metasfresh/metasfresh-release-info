@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18820](https://github.com/metasfresh/metasfresh/issues/18820) Storno Lieferung trotz Faktura / Adjust for partial deliveries with individual invoices
 * [#18815](https://github.com/metasfresh/metasfresh/issues/18815) Show `6960` account in `Marginal Costing` report
 * [#18801](https://github.com/metasfresh/metasfresh/issues/18801) Make POReference normal column
 * [#18765](https://github.com/metasfresh/metasfresh/pull/18765) Adding `DD_Order` <-> `DD_Order_Candidate` relation types
