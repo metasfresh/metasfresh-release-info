@@ -13,7 +13,7 @@ Here come the actual release notes:
 
 ## Features
 * [#18833](https://github.com/metasfresh/metasfresh/pull/18833) Add support for zoom from the other windows (inout, pporder etc) to the HU-Tracing window
-* [#18784](https://github.com/metasfresh/metasfresh/pull/18784) HU-Unreserve on order void or reverse (or reactivate)
+* [#18784](https://github.com/metasfresh/metasfresh/pull/18784) HU-Unreserve on order void
 * [#18820](https://github.com/metasfresh/metasfresh/issues/18820) Storno Lieferung trotz Faktura / Adjust for partial deliveries with individual invoices
 * [#18815](https://github.com/metasfresh/metasfresh/issues/18815) Show `6960` account in `Marginal Costing` report
 * [#18801](https://github.com/metasfresh/metasfresh/issues/18801) Make POReference normal column
