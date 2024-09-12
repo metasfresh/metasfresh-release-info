@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18858](https://github.com/metasfresh/metasfresh/pull/18858) add new aggregation one invoice per shipment
 * [#18823](https://github.com/metasfresh/metasfresh/pull/18823) Update the `report.fresh_HU_SSCC_Label_Report` view
 * [#18833](https://github.com/metasfresh/metasfresh/pull/18833) Add support for zoom from the other windows (inout, pporder etc) to the HU-Tracing window
 * [#18784](https://github.com/metasfresh/metasfresh/pull/18784) HU-Unreserve on order void
