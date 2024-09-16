@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18834](https://github.com/metasfresh/metasfresh/pull/18834) Apply 5 cents rounding to sales invoice grand total 
 * [#18632](https://github.com/metasfresh/metasfresh/pull/18632) Fix camel EDI ORDERS message ordering
 * [#18848](https://github.com/metasfresh/metasfresh/issues/18848) Update the `Grand Total` in a `Draft` Invoice
 * [#18858](https://github.com/metasfresh/metasfresh/pull/18858) add new aggregation one invoice per shipment
