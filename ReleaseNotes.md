@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18910](https://github.com/metasfresh/metasfresh/issues/18910) Abrechnung Waschproben BIO
 * [#18885](https://github.com/metasfresh/metasfresh/issues/18885) Improve Readability of items in calendar view
 * [#18882](https://github.com/metasfresh/metasfresh/issues/18882) Apply Readonly Logic only to orderlines if it is an actual order to support editing quotations
 * [#18872](https://github.com/metasfresh/metasfresh/pull/18872) Create credit memo via endpoint
