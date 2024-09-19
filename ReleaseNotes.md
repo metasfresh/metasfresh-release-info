@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18887](https://github.com/metasfresh/metasfresh/issues/18887) Agregate multiple PP Order Candidates into one PP Order via C_Aggregation
 * [#18905](https://github.com/metasfresh/metasfresh/issues/18905) Lookup widget (Search) update
 * [#18144](https://github.com/metasfresh/metasfresh/pull/18144) Cucumber scenarios for purchase modular contracts
 * [#18910](https://github.com/metasfresh/metasfresh/issues/18910) Abrechnung Waschproben BIO
