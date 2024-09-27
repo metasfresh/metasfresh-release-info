@@ -12,6 +12,9 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#18962](https://github.com/metasfresh/metasfresh/issues/18962) Error messages on mobile UI do not disappear
+* [#18963](https://github.com/metasfresh/metasfresh/issues/18963) Picking-Slot Clearing after some change doesn't work anymore
+* [#18964](https://github.com/metasfresh/metasfresh/issues/18964) MobileUI - Introduce User Prompt on Over Picking
 * [#18998](https://github.com/metasfresh/metasfresh/issues/18998) DocOutbound mail recipient respect flag isInvoiceMailEnabled
 * [#18966](https://github.com/metasfresh/metasfresh/issues/18966) Allow Users to find Shipments that need to be sent by DESADV
 * [#18930](https://github.com/metasfresh/metasfresh/pull/18930) Recursive creation of Manufacturing Order Candidate
