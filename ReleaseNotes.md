@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19018](https://github.com/metasfresh/metasfresh/issues/19018) Fehlendes Feld Preisminderungsart bei Produkt
 * [#19009](https://github.com/metasfresh/metasfresh/issues/19009) EDI DESADV - One reference for two delivery addresses + Error: One DESADV for two deliveries
 * [#18962](https://github.com/metasfresh/metasfresh/issues/18962) Error messages on mobile UI do not disappear
 * [#18963](https://github.com/metasfresh/metasfresh/issues/18963) Picking-Slot Clearing after some change doesn't work anymore
