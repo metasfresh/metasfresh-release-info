@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19056](https://github.com/metasfresh/metasfresh/pull/19056) Unfit ESR No
 * [#18753](https://github.com/metasfresh/metasfresh/pull/18753) Support multiple RouterPassword attributes
 * [#19018](https://github.com/metasfresh/metasfresh/issues/19018) Fehlendes Feld Preisminderungsart bei Produkt
 * [#19009](https://github.com/metasfresh/metasfresh/issues/19009) EDI DESADV - One reference for two delivery addresses + Error: One DESADV for two deliveries
