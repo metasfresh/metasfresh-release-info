@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19075](https://github.com/metasfresh/metasfresh/issues/19075) Grouping of picking items on scanners
 * [#19042](https://github.com/metasfresh/metasfresh/pull/19042) DESADV - Support different Products on one LU
 * [#19047](https://github.com/metasfresh/metasfresh/pull/19047) Add sysconfig to ignore MaterialEvents instead of processing them, to increase performance
 * [#19056](https://github.com/metasfresh/metasfresh/pull/19056) Unfit ESR No
