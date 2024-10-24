@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19186](https://github.com/metasfresh/metasfresh/pull/19186) Don't create variance cost collector if qty issued is within tolerance
 * [#19182](https://github.com/metasfresh/metasfresh/pull/19182) Cucumber scenario for the sales modular contract
 * [#19170](https://github.com/metasfresh/metasfresh/pull/19170) MobileUI fix dialog
 * [#19120](https://github.com/metasfresh/metasfresh/issues/19120) Port Restrict the sizes of our CCaches to yoyo_uat
