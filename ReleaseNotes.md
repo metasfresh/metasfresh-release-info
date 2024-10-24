@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19222](https://github.com/metasfresh/metasfresh/issues/19222) password in Prozess Revision visible
 * [#19210](https://github.com/metasfresh/metasfresh/pull/19210) Prevent component issue twice
 * [#19186](https://github.com/metasfresh/metasfresh/pull/19186) Don't create variance cost collector if qty issued is within tolerance
 * [#19182](https://github.com/metasfresh/metasfresh/pull/19182) Cucumber scenario for the sales modular contract
