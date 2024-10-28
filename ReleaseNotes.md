@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19231](https://github.com/metasfresh/metasfresh/issues/19231) Show `LotNo` and `Best before date` on `Shipment Note`
 * [#19240](https://github.com/metasfresh/metasfresh/issues/19240) MobileUI Richtige Waage sicherstellen
 * [#19222](https://github.com/metasfresh/metasfresh/issues/19222) password in Prozess Revision visible
 * [#19210](https://github.com/metasfresh/metasfresh/pull/19210) Prevent component issue twice
