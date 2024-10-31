@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19262](https://github.com/metasfresh/metasfresh/issues/19262) Import Invoice Candidate External Reference
 * [#19252](https://github.com/metasfresh/metasfresh/issues/19252) CatchWeight weightNet
 * [#19189](https://github.com/metasfresh/metasfresh/pull/19189) Fix the invoicing problem related to override due date
 * [#19231](https://github.com/metasfresh/metasfresh/issues/19231) Show `LotNo` and `Best before date` on `Shipment Note`
