@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19271](https://github.com/metasfresh/metasfresh/pull/19271) fix RecreateInvoiceWorkpackageProcessor DB deadlock
 * [#19250](https://github.com/metasfresh/metasfresh/issues/19250) Display incoterm in all report footer
 * [#19262](https://github.com/metasfresh/metasfresh/issues/19262) Import Invoice Candidate External Reference
 * [#19252](https://github.com/metasfresh/metasfresh/issues/19252) CatchWeight weightNet
