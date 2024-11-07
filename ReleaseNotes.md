@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19249](https://github.com/metasfresh/metasfresh/pull/19249) RabbitMQ prefetch size and consumer count
 * [#19289](https://github.com/metasfresh/metasfresh/pull/19289) when cloning a product, also clone its ingredients
 * [#19276](https://github.com/metasfresh/metasfresh/issues/19276) EDI INVOIC Export C_Invoice.DateAcct
 * [#19271](https://github.com/metasfresh/metasfresh/pull/19271) fix RecreateInvoiceWorkpackageProcessor DB deadlock
