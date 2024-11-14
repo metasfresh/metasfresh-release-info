@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19351](https://github.com/metasfresh/metasfresh/issues/19351) Error when searching PostFinance Partner
 * [#19337](https://github.com/metasfresh/metasfresh/issues/19337) DocOutbound - Mass PDF: Use Window Record Sorting for PDF
 * [#19320](https://github.com/metasfresh/metasfresh/issues/19320) Import Invoice Candidate External Reference
 * [#19249](https://github.com/metasfresh/metasfresh/pull/19249) RabbitMQ prefetch size and consumer count
