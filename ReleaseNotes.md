@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19387](https://github.com/metasfresh/metasfresh/issues/19387) Show BestBefore in Shipment Schedule
 * [#19370](https://github.com/metasfresh/metasfresh/issues/19370) Deletion of several lines in sales order disposition
 * [#19351](https://github.com/metasfresh/metasfresh/issues/19351) Error when searching PostFinance Partner
 * [#19337](https://github.com/metasfresh/metasfresh/issues/19337) DocOutbound - Mass PDF: Use Window Record Sorting for PDF
