@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19433](https://github.com/metasfresh/metasfresh/issues/19433) Move the automatically created modular setting lines to a separate tab
 * [#19400](https://github.com/metasfresh/metasfresh/pull/19400) Fix calculation of the number of LUs on deliveries without actual picking
 * [#19365](https://github.com/metasfresh/metasfresh/issues/19365) Update generic reports
 * [#19387](https://github.com/metasfresh/metasfresh/issues/19387) Show BestBefore in Shipment Schedule
