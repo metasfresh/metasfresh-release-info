@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19483](https://github.com/metasfresh/metasfresh/issues/19483) Adding `POReference` to `Open Items` Report
 * [#19481](https://github.com/metasfresh/metasfresh/issues/19481) Anpassung der Namen von PDF-Dateien
 * [#19476](https://github.com/metasfresh/metasfresh/issues/19476) Make UOM Symbol Field Mandatory
 * [#19433](https://github.com/metasfresh/metasfresh/issues/19433) Move the automatically created modular setting lines to a separate tab
