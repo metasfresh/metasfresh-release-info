@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19653](https://github.com/metasfresh/metasfresh/issues/19653) Shown `Invoice-Mail-Enabled` field in `BPartner` window
 * [#19583](https://github.com/metasfresh/metasfresh/issues/19583) Fix AD_Field_v(t)
 * [#19521](https://github.com/metasfresh/metasfresh/pull/19521) externalSystems-Leich+Mehl can invoke a customizable postgREST reports
 * [#19483](https://github.com/metasfresh/metasfresh/issues/19483) Adding `POReference` to `Open Items` Report
