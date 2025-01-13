@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19759](https://github.com/metasfresh/metasfresh/issues/19759) Bestelldispo: UOM conversion not used correctly for products where stock UOM != price UOM
 * [#19760](https://github.com/metasfresh/metasfresh/issues/19760) Update Payment Rule Trl
 * [#19749](https://github.com/metasfresh/metasfresh/issues/19749) No error thrown for user when invoicing with Nur für Fakturierung freigegeben = Y and no ICs are approved
 * [#19714](https://github.com/metasfresh/metasfresh/issues/19714) Update `report_qr.jrxml`
