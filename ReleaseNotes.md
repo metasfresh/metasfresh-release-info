@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19784](https://github.com/metasfresh/metasfresh/issues/19784) Add SQL-Column `POReference` to `C_Dunning_Candidate` and filter by it
 * [#19777](https://github.com/metasfresh/metasfresh/pull/19777) Show error message if inactive product is used in C_OrderLine
 * [#19778](https://github.com/metasfresh/metasfresh/issues/19778) Periods for 2026 and 2027
 * [#19759](https://github.com/metasfresh/metasfresh/issues/19759) Bestelldispo: UOM conversion not used correctly for products where stock UOM != price UOM
