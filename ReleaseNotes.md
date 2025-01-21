@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19855](https://github.com/metasfresh/metasfresh/issues/19855) Update `Label` reports Trl
 * [#19807](https://github.com/metasfresh/metasfresh/issues/19807) Window Doctype - bring fields from advanced edit to first page
 * [#19784](https://github.com/metasfresh/metasfresh/issues/19784) Add SQL-Column `POReference` to `C_Dunning_Candidate` and filter by it
 * [#19777](https://github.com/metasfresh/metasfresh/pull/19777) Show error message if inactive product is used in C_OrderLine
