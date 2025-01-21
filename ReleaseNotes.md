@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19867](https://github.com/metasfresh/metasfresh/issues/19867) Update `fr_CH` `it_CH` for `Dunning` report
 * [#19855](https://github.com/metasfresh/metasfresh/issues/19855) Update `Label` reports Trl
 * [#19807](https://github.com/metasfresh/metasfresh/issues/19807) Window Doctype - bring fields from advanced edit to first page
 * [#19784](https://github.com/metasfresh/metasfresh/issues/19784) Add SQL-Column `POReference` to `C_Dunning_Candidate` and filter by it
