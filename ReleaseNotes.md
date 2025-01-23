@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19866](https://github.com/metasfresh/metasfresh/pull/19866) Added POReference to DHL REST API
 * [#19875](https://github.com/metasfresh/metasfresh/issues/19875) When creating an account that is not summary, an error is thrown and the account cannot be saved
 * [#19867](https://github.com/metasfresh/metasfresh/issues/19867) Update `fr_CH` `it_CH` for `Dunning` report
 * [#19855](https://github.com/metasfresh/metasfresh/issues/19855) Update `Label` reports Trl
