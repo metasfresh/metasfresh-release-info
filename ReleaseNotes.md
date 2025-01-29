@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19946](https://github.com/metasfresh/metasfresh/issues/19946) Fix severe performance problem with C_BPartner_UpdateStats
 * [#19923](https://github.com/metasfresh/metasfresh/issues/19923) Production: Receive By/Co products with TU packing
 * [#19940](https://github.com/metasfresh/metasfresh/issues/19940) Display Destroyed HUs
 * [#19931](https://github.com/metasfresh/metasfresh/issues/19931) Fix `de_metas_endcustomer_fresh_reports.Trace_Report` function
