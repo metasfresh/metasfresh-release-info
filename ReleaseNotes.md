@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19940](https://github.com/metasfresh/metasfresh/issues/19940) Display Destroyed HUs
 * [#19931](https://github.com/metasfresh/metasfresh/issues/19931) Fix `de_metas_endcustomer_fresh_reports.Trace_Report` function
 * [#19866](https://github.com/metasfresh/metasfresh/pull/19866) Added POReference to DHL REST API
 * [#19875](https://github.com/metasfresh/metasfresh/issues/19875) When creating an account that is not summary, an error is thrown and the account cannot be saved
