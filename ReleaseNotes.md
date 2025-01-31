@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19980](https://github.com/metasfresh/metasfresh/issues/19980) SSCC Label Coop - empty label
 * [#19930](https://github.com/metasfresh/metasfresh/pull/19930) Remove old&faulty tax-lookup code
 * [#19946](https://github.com/metasfresh/metasfresh/issues/19946) Fix severe performance problem with C_BPartner_UpdateStats
 * [#19923](https://github.com/metasfresh/metasfresh/issues/19923) Production: Receive By/Co products with TU packing
