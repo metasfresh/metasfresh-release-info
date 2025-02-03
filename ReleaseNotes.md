@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19956](https://github.com/metasfresh/metasfresh/pull/19956) Introduced and used: M_HU_PI_Item_Product.IsOrderInTuUomWhenMatched
 * [#19964](https://github.com/metasfresh/metasfresh/issues/19964) Update `AD_User` `C_BPartner` tables
 * [#19952](https://github.com/metasfresh/metasfresh/pull/19952) consider LU destroyed if unpicking the last TU from it
 * [#19980](https://github.com/metasfresh/metasfresh/issues/19980) SSCC Label Coop - empty label
