@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20010](https://github.com/metasfresh/metasfresh/issues/20010) PP_Order Candidate: Setting Start Date on quarterly hour
 * [#19956](https://github.com/metasfresh/metasfresh/pull/19956) Introduced and used: M_HU_PI_Item_Product.IsOrderInTuUomWhenMatched
 * [#19964](https://github.com/metasfresh/metasfresh/issues/19964) Update `AD_User` `C_BPartner` tables
 * [#19952](https://github.com/metasfresh/metasfresh/pull/19952) consider LU destroyed if unpicking the last TU from it
