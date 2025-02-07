@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#19991](https://github.com/metasfresh/metasfresh/pull/19991) Upgrade POI from 3.15 to 4.1.2
 * [#20005](https://github.com/metasfresh/metasfresh/pull/20005) Fix adding POReference to AD_Archive & C_Doc_Outbound_Log
 * [#19966](https://github.com/metasfresh/metasfresh/pull/19966) Prevent duplication on current vs previous price list reports
 * [#20021](https://github.com/metasfresh/metasfresh/pull/20021) Fix order callout
