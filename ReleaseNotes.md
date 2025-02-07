@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20021](https://github.com/metasfresh/metasfresh/pull/20021) Fix order callout
 * [#20015](https://github.com/metasfresh/metasfresh/issues/20015) Increase `Product BOM` name length
 * [#19992](https://github.com/metasfresh/metasfresh/issues/19992) Update `PaymentRule` list
 * [#20010](https://github.com/metasfresh/metasfresh/issues/20010) PP_Order Candidate: Setting Start Date on quarterly hour
