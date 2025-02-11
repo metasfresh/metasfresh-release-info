@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20034](https://github.com/metasfresh/metasfresh/issues/20034) Prevent setting `M_Warehouse.AD_Org_ID` to `0` neither in the `WebUI` nor via `DB-update`
 * [#20002](https://github.com/metasfresh/metasfresh/issues/20002) Fix process "Bestellkontrolle zum Kunden Drucken"
 * [#19991](https://github.com/metasfresh/metasfresh/pull/19991) Upgrade POI from 3.15 to 4.1.2
 * [#20005](https://github.com/metasfresh/metasfresh/pull/20005) Fix adding POReference to AD_Archive & C_Doc_Outbound_Log
