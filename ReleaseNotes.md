@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20059](https://github.com/metasfresh/metasfresh/issues/20059) Production candidates improvements
 * [#20048](https://github.com/metasfresh/metasfresh/issues/20048) The start date time should be rounded down to the closest quarter
 * [#20034](https://github.com/metasfresh/metasfresh/issues/20034) Prevent setting `M_Warehouse.AD_Org_ID` to `0` neither in the `WebUI` nor via `DB-update`
 * [#20002](https://github.com/metasfresh/metasfresh/issues/20002) Fix process "Bestellkontrolle zum Kunden Drucken"
