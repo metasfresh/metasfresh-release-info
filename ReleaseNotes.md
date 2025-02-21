@@ -12,6 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20098](https://github.com/metasfresh/metasfresh/pull/20098) Enhance AD_Eventlog information
+* [#20119](https://github.com/metasfresh/metasfresh/pull/20119) Enhanced Sales Order doctype transitions cucumber test
 * [#20120](https://github.com/metasfresh/metasfresh/issues/20120) Make isactive default filter in all windows
 * [#20090](https://github.com/metasfresh/metasfresh/issues/20090) Avoid data-corruption when AD_PInstance_ID is set by dba_seq_check_native
 * [#20049](https://github.com/metasfresh/metasfresh/pull/20049) Allow selecting sales-rep on a case-by-case basis in sales-order
