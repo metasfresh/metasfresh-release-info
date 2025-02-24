@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20149](https://github.com/metasfresh/metasfresh/issues/20149) Clean up old C_OLCand processes
 * [#20098](https://github.com/metasfresh/metasfresh/pull/20098) Enhance AD_Eventlog information
 * [#20119](https://github.com/metasfresh/metasfresh/pull/20119) Enhanced Sales Order doctype transitions cucumber test
 * [#20120](https://github.com/metasfresh/metasfresh/issues/20120) Make isactive default filter in all windows
