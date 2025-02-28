@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20190](https://github.com/metasfresh/metasfresh/issues/20190) Update `Purchase Invoice - Commission` report
 * [#20158](https://github.com/metasfresh/metasfresh/pull/20158) Populate activity from product accounting into inventory line & fact acct
 * [#20152](https://github.com/metasfresh/metasfresh/pull/20152) Prevent error when TU can hold an infinite qty of CUs and receiving using defaults
 * [#20149](https://github.com/metasfresh/metasfresh/issues/20149) Clean up old C_OLCand processes
