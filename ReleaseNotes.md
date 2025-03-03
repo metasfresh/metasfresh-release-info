@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20173](https://github.com/metasfresh/metasfresh/pull/20173) Add a a doctype for C_Order that is a non-binding proposal, but spells `Proforma-Invoice`
 * [#20163](https://github.com/metasfresh/metasfresh/issues/20163) Replenishment Process and Window
 * [#20190](https://github.com/metasfresh/metasfresh/issues/20190) Update `Purchase Invoice - Commission` report
 * [#20158](https://github.com/metasfresh/metasfresh/pull/20158) Populate activity from product accounting into inventory line & fact acct
