@@ -12,6 +12,7 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20315](https://github.com/metasfresh/metasfresh/pull/20315) Implemented IsSkipInvoicing & IsHideWhenPrinting for compensation group line products
 * [#20261](https://github.com/metasfresh/metasfresh/pull/20261) Don't escape html symbols in notification text
 * [#20173](https://github.com/metasfresh/metasfresh/pull/20173) Add a a doctype for C_Order that is a non-binding proposal, but spells `Proforma-Invoice`
 * [#20163](https://github.com/metasfresh/metasfresh/issues/20163) Replenishment Process and Window
