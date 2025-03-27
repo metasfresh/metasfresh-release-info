@@ -12,6 +12,8 @@ Here come the actual release notes:
 # metasfresh 5.178 (upcoming RC)
 
 ## Features
+* [#20369](https://github.com/metasfresh/metasfresh/pull/20369) When creating an AsyncBatch-Workpackage, don't store the C_AsyncBatch_ID thread-locally
+* [#20452](https://github.com/metasfresh/metasfresh/pull/20452) Reworked compensation groups logic to support partial invoicing
 * [#20315](https://github.com/metasfresh/metasfresh/pull/20315) Implemented IsSkipInvoicing & IsHideWhenPrinting for compensation group line products
 * [#20261](https://github.com/metasfresh/metasfresh/pull/20261) Don't escape html symbols in notification text
 * [#20173](https://github.com/metasfresh/metasfresh/pull/20173) Add a a doctype for C_Order that is a non-binding proposal, but spells `Proforma-Invoice`
